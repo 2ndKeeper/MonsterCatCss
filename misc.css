@@ -1,0 +1,92 @@
+
+
+/**
+ * Downvote Message
+ */
+.arrow.down:after {
+    content: "For content that does not contribute to any discussion."
+}
+
+/**
+ * Subscriber Message
+ */
+div.titlebox span.number:after {
+    content: " HARDCORE MEMBERS"
+}
+
+/**
+ * Active Users Message
+ */
+.titlebox .users-online .number:after {
+    content: " powerusers online"
+}
+
+/**
+ * Spoiler Text Hiding
+ */
+a[href="/s"],
+a[href="#s"] {
+    font-size: 0;
+    visibility: hidden;
+    cursor: default;
+    display: inline-block
+}
+
+a[href="/s"]::after,
+a[href="#s"]::after {
+    content: attr(title);
+    background: #000;
+    color: #000;
+    font-size: small;
+    visibility: visible
+}
+/**
+ * Show spoiler text on hover
+ */
+a[href="/s"]:active::after,
+a[href="/s"]:hover::after,
+a[href="#s"]:active::after,
+a[href="#s"]:hover::after {
+    color: #000;
+    background: 0 0;
+    text-decoration: none;
+    font-size: small
+}
+
+/** 
+ * Change the Global Font
+ */
+* {
+    font-family: Roboto, "San Francisco Display", "Helvetica Neue", Arial, Verdana!important
+}
+
+ 
+.sidecontentbox a.helplink {
+    text-transform: uppercase;
+    margin-right: 3.2px;
+    margin-bottom: 15px;
+    width: 98%;
+    background-color: #1d6fa9;
+    border: none;
+    border-radius: 2px;
+    color: #fff!important;
+    text-align: center;
+    font-weight: 700;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    line-height: 30px;
+    transition: .25s ease
+}
+
+
+.sidecontentbox a.helplink:hover {
+    background-color: #0d5487;
+    text-decoration: none
+}
+
+.sidecontentbox a.helplink:active {
+    background-color: #0a79cc
+}
+
+
+
