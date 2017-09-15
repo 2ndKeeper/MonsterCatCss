@@ -1476,3 +1476,17 @@ only screen and (min-device-pixel-ratio:1.5) {
 /**
  * /-/-/-/-/-/-/-/-/ END USER FLAIRS /-/-/-/-/-/-/-/-/
  */
+
+
+a.author[href$="/3vans"]::before,
+a.author[href$="/Troutz"]::before,
+a.author[href$="/EternalHipster"]::before {
+    content: "[Mod Alumnus] "
+}
+
+a.author[href$="/Numiiigoesrawrz"]::before {
+    content: "[Mod Alumna]"
+}
+
+
+
