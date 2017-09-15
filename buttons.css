@@ -45,3 +45,8 @@ body button:hover {
 body button:active {
     background-color: #0a79cc
 }
+
+.side .titlebox .md h3 a{
+    background-color: #1d6fa9;
+    text-align:center
+}
