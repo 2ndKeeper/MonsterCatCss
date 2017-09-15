@@ -30,18 +30,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     width: 41.5px;
 }
 
-.flair-laurabrehm-gold {
-    background-position: -1px -21px;
-    width: 41.5px
-}
-
 .flair-aerochord {
     background-position: -44.5px -1px;
-    width: 41px;
-}
-
-.flair-aerochord-gold {
-    background-position: -44.5px -21px;
     width: 41px;
 }
 
@@ -50,15 +40,6 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 17.5px
 }
 
-.flair-puppet-gold {
-    background-position: -1px -60.5px;
-    height: 17.5px
-}
-
-.flair-tuttutchild-gold {
-    background-position: -87.5px -1px;
-    width: 40.5px;
-}
 
 .flair-tuttutchild {
     background-position: -87.5px -21px;
@@ -70,18 +51,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     width: 40px;
 }
 
-.flair-ramesesb-gold {
-    background-position: -1px -80px;
-    width: 40px;
-}
-
 .flair-scndl {
     background-position: -43px -80px;
-    width: 38px
-}
-
-.flair-scndl-gold {
-    background-position: -83px -80px;
     width: 38px
 }
 
@@ -90,29 +61,9 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 15.5px
 }
 
-.flair-throttle-gold {
-    background-position: -45px -100px;
-    height: 15.5px
-}
-
-.flair-richardcaddock-gold {
-    background-position: -130px -1px;
-    width: 36px;
-}
-
 .flair-richardcaddock {
     background-position: -130px -21px;
     width: 36px;
-}
-
-.flair-goingquantum-gold {
-    background-position: -1px -117.5px;
-    height: 14.5px
-}
-
-.flair-atmozfears-gold {
-    background-position: -45px -117.5px;
-    height: 14.5px
 }
 
 .flair-goingquantum {
@@ -125,19 +76,9 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 14.5px
 }
 
-.flair-conro-gold {
-    background-position: -130px -41px;
-    width: 34px
-}
-
 .flair-conro {
     background-position: -130px -61px;
     width: 34px;
-}
-
-.flair-dotexe-gold {
-    background-position: -130px -81px;
-    width: 34px
 }
 
 .flair-dotexe {
@@ -150,25 +91,13 @@ only screen and (min-device-pixel-ratio:1.5) {
     width: 34px
 }
 
-.flair-hyperpotions-gold {
-    background-position: -168px -41px;
-    width: 34px
-}
-
 .flair-iyffe {
     background-position: -168px -61px;
     width: 33.5px
 }
 
-.flair-iyffe-gold {
-    background-position: -168px -81px;
-    width: 33.5px
-}
-
 .flair-grabbitz,
-.flair-grabbitz-gold,
-.flair-wrld,
-.flair-wrld-gold {
+.flair-wrld, {
     height: 14px
 }
 
@@ -176,62 +105,36 @@ only screen and (min-device-pixel-ratio:1.5) {
     background-position: -45px -134px
 }
 
-.flair-grabbitz-gold {
-    background-position: -89px -134px
-}
-
 .flair-grabbitz {
     background-position: -1px -150.5px
 }
 
-.flair-wrld-gold {
-    background-position: -45px -150.5px
-}
 
 .flair-razihel {
     background-position: -168px -101px;
     width: 33px;
 }
 
-.flair-stephenwalking-gold {
-    background-position: -168px -121px;
-    width: 33px;
-}
 
 .flair-stephenwalking {
     background-position: -1px -166.5px;
     width: 33px;
 }
 
-.flair-vicetone-gold {
-    background-position: -36px -166.5px;
-    width: 33px;
-}
 
 .flair-vicetone {
     background-position: -71px -166.5px;
     width: 33px;
 }
 
-.flair-razihel-gold {
-    background-position: -106px -166.5px;
-    width: 33px;
-}
-
 .flair-1up,
-.flair-1up-gold,
-.flair-neilio,
-.flair-neilio-gold,
+.flair-neilio
 .flair-poweruser {
     width: 31.5px;
 }
 
 .flair-1up {
     background-position: -141px -166.5px
-}
-
-.flair-1up-gold {
-    background-position: -204px -1px
 }
 
 .flair-poweruser {
@@ -242,14 +145,7 @@ only screen and (min-device-pixel-ratio:1.5) {
     background-position: -204px -41px
 }
 
-.flair-neilio-gold {
-    background-position: -204px -61px
-}
 
-.flair-mitchellclaxton-gold {
-    background-position: -89px -150.5px;
-    height: 13px
-}
 
 .flair-mitchellclaxton {
     background-position: -133px -150.5px;
@@ -258,11 +154,6 @@ only screen and (min-device-pixel-ratio:1.5) {
 
 .flair-slipsandslurs {
     background-position: -204px -81px;
-    width: 30.5px;
-}
-
-.flair-slipsandslurs-gold {
-    background-position: -204px -101px;
     width: 30.5px;
 }
 
@@ -276,30 +167,16 @@ only screen and (min-device-pixel-ratio:1.5) {
     width: 29px;
 }
 
-.flair-highmaintenance-gold {
-    background-position: -204px -161px;
-    width: 29px;
-}
 
 .flair-matduke-gold {
     background-position: -1px -186.5px;
     width: 29px;
 }
 
-.flair-project46-gold {
-    background-position: -32px -186.5px;
-    width: 42px;
-    height: 12px
-}
 
 .flair-project46 {
     background-position: -76px -186.5px;
     height: 12px
-}
-
-.flair-chrisson-gold {
-    background-position: -1px -206.5px;
-    width: 28.5px;
 }
 
 .flair-deoncustom {
@@ -312,38 +189,20 @@ only screen and (min-device-pixel-ratio:1.5) {
     width: 28.5px;
 }
 
-.flair-deoncustom-gold {
-    background-position: -92.5px -206.5px;
-    width: 28.5px;
-}
-
 .flair-hotdate {
     background-position: -123px -206.5px;
     width: 28px;
 }
 
-.flair-hotdate-gold {
-    background-position: -153px -206.5px;
-    width: 28px
-}
-
 .flair-pylot,
-.flair-pylot-gold,
 .flair-rootkit,
-.flair-rootkit-gold,
 .flair-stonebank,
-.flair-stonebank-gold,
-.flair-varien,
-.flair-varien-gold {
+.flair-varien{
     height: 11.5px
 }
 
 .flair-varien {
     background-position: -120px -186.5px
-}
-
-.flair-stonebank-gold {
-    background-position: -164px -186.5px
 }
 
 .flair-stonebank {
@@ -354,44 +213,16 @@ only screen and (min-device-pixel-ratio:1.5) {
     background-position: -237.5px -1px
 }
 
-.flair-varien-gold {
-    background-position: -237.5px -14.5px
-}
-
-.flair-rootkit-gold {
-    background-position: -237.5px -28px
-}
-
 .flair-pylot {
     background-position: -237.5px -41.5px
-}
-
-.flair-pylot-gold {
-    background-position: -237.5px -55px
-}
-
-.flair-nigelgood-gold {
-    background-position: -237.5px -68.5px;
-    width: 27.5px;
 }
 
 .flair-caseandpoint {
     background-position: -237.5px -88.5px;
     width: 27.5px;
 }
-
-.flair-caseandpoint-gold {
-    background-position: -237.5px -108.5px;
-    width: 27.5px;
-}
-
 .flair-virtualriot {
     background-position: -237.5px -128.5px;
-    width: 27.5px
-}
-
-.flair-virtualriot-gold {
-    background-position: -237.5px -148.5px;
     width: 27.5px
 }
 
@@ -403,16 +234,6 @@ only screen and (min-device-pixel-ratio:1.5) {
 .flair-tristam {
     background-position: -237.5px -188.5px;
     width: 26.5px
-}
-
-.flair-tristam-gold {
-    background-position: -174.5px -166.5px;
-    width: 26.5px
-}
-
-.flair-rezonate-gold {
-    background-position: -237.5px -208.5px;
-    height: 10.5px
 }
 
 .flair-rezonate {
@@ -436,16 +257,9 @@ only screen and (min-device-pixel-ratio:1.5) {
 }
 
 .flair-bustre,
-.flair-bustre-gold,
 .flair-draper,
-.flair-draper-gold,
-.flair-tvds,
-.flair-tvds-gold {
+.flair-tvds,{
     height: 10px
-}
-
-.flair-tvds-gold {
-    background-position: -133px -226.5px
 }
 
 .flair-tvds {
@@ -456,22 +270,10 @@ only screen and (min-device-pixel-ratio:1.5) {
     background-position: -221px -226.5px
 }
 
-.flair-draper-gold {
-    background-position: -28px -239px
-}
-
-.flair-bustre-gold {
-    background-position: -72px -239px
-}
-
 .flair-bustre {
     background-position: -116px -239px
 }
 
-.flair-braken-gold {
-    background-position: -1px -259px;
-    width: 22.5px
-}
 
 .flair-braken {
     background-position: -25.5px -259px;
@@ -480,11 +282,6 @@ only screen and (min-device-pixel-ratio:1.5) {
 
 .flair-krewella {
     background-position: -160px -239px;
-    height: 9px
-}
-
-.flair-krewella-gold {
-    background-position: -204px -239px;
     height: 9px
 }
 
@@ -498,29 +295,9 @@ only screen and (min-device-pixel-ratio:1.5) {
     width: 22px;
 }
 
-.flair-richedwards-gold {
-    background-position: -98px -259px;
-    width: 22px;
-}
-
-.flair-eminence-gold {
-    background-position: -122px -259px;
-    width: 22px;
-}
-
-.flair-chrisramos-gold {
-    background-position: -146px -259px;
-    width: 22px;
-}
-
 .flair-chrisramos {
     background-position: -170px -259px;
     width: 22px;
-}
-
-.flair-astronaut-gold {
-    background-position: -194px -259px;
-    width: 21px;
 }
 
 .flair-pegboardnerds {
@@ -529,64 +306,31 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 18px
 }
 
-.flair-pegboardnerds-gold {
-    background-position: -240px -259px;
-    width: 21px
-}
-
 .flair-overwerk {
     background-position: -281.5px -1px;
     width: 21px
 }
-
-.flair-overwerk-gold {
-    background-position: -281.5px -21px;
-    width: 21px
-}
-
 .flair-astronaut {
     background-position: -281.5px -41px;
     width: 21px
 }
 
 .flair-didrick,
-.flair-didrick-gold,
 .flair-grantbowtie,
-.flair-grantbowtie-gold,
 .flair-haywyre,
-.flair-haywyre-gold,
 .flair-lvther,
-.flair-lvther-gold,
 .flair-sanholo,
-.flair-sanholo-gold,
-.flair-skifonix,
-.flair-skifonix-gold {
+.flair-skifonix,{
     width: 20.5px;
     height: 18px
-}
-
-.flair-didrick-gold {
-    background-position: -281.5px -61px
 }
 
 .flair-didrick {
     background-position: -281.5px -81px
 }
 
-.flair-skifonix-gold {
-    background-position: -281.5px -101px
-}
-
 .flair-sanholo {
     background-position: -281.5px -121px
-}
-
-.flair-sanholo-gold {
-    background-position: -281.5px -141px
-}
-
-.flair-lvther-gold {
-    background-position: -281.5px -161px
 }
 
 .flair-skifonix {
@@ -597,17 +341,11 @@ only screen and (min-device-pixel-ratio:1.5) {
     background-position: -281.5px -201px
 }
 
-.flair-grantbowtie-gold {
-    background-position: -281.5px -221px
-}
 
 .flair-grantbowtie {
     background-position: -281.5px -241px
 }
 
-.flair-haywyre-gold {
-    background-position: -1px -279px
-}
 
 .flair-haywyre {
     background-position: -23.5px -279px
@@ -623,25 +361,13 @@ only screen and (min-device-pixel-ratio:1.5) {
     width: 20px
 }
 
-.flair-fool-gold {
-    background-position: -304.5px -21px;
-    width: 20px
-}
 
-.flair-nitrofun-gold {
-    background-position: -90px -279px;
-    height: 8px
-}
 
 .flair-nitrofun {
     background-position: -134px -279px;
     height: 8px
 }
 
-.flair-labisch-gold {
-    background-position: -178px -279px;
-    height: 8px
-}
 
 .flair-rundfunk {
     background-position: -304.5px -41px;
@@ -658,28 +384,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     width: 19.5px;
 }
 
-.flair-redmoon-gold {
-    background-position: -304.5px -101px;
-    width: 19.5px;
-}
-
 .flair-redmoon {
     background-position: -304.5px -121px;
-    width: 19.5px;
-}
-
-.flair-7minutesdead-gold {
-    background-position: -304.5px -141px;
-    width: 19.5px;
-}
-
-.flair-dayone-gold {
-    background-position: -304.5px -161px;
-    width: 19.5px;
-}
-
-.flair-rundfunk-gold {
-    background-position: -304.5px -181px;
     width: 19.5px;
 }
 
@@ -688,25 +394,11 @@ only screen and (min-device-pixel-ratio:1.5) {
     width: 19px;
 }
 
-.flair-summerwasfun-gold {
-    background-position: -304.5px -221px;
-    width: 19px;
-}
-
-.flair-trivecta-gold {
-    background-position: -304.5px -241px;
-    width: 19px;
-}
-
 .flair-trivecta {
     background-position: -304.5px -261px;
     width: 19px;
 }
 
-.flair-favright-gold {
-    background-position: -222px -279px;
-    height: 7.5px
-}
 
 .flair-favright {
     background-position: -46px -289px;
@@ -714,37 +406,16 @@ only screen and (min-device-pixel-ratio:1.5) {
 }
 
 .flair-azedia,
-.flair-azedia-gold,
 .flair-ephixa,
-.flair-ephixa-gold,
 .flair-falconfunk,
-.flair-falconfunk-gold,
 .flair-pixl,
-.flair-pixl-gold,
-.flair-soundremedy,
-.flair-soundremedy-gold {
+.flair-soundremedy,{
     width: 18.5px;
     height: 18px
 }
 
-.flair-soundremedy-gold {
-    background-position: -1px -299px
-}
-
-.flair-pixl-gold {
-    background-position: -21.5px -299px
-}
-
-.flair-azedia-gold {
-    background-position: -42px -299px
-}
-
 .flair-azedia {
     background-position: -62.5px -299px
-}
-
-.flair-ephixa-gold {
-    background-position: -83px -299px
 }
 
 .flair-pixl {
@@ -763,26 +434,15 @@ only screen and (min-device-pixel-ratio:1.5) {
     background-position: -165px -299px
 }
 
-.flair-falconfunk-gold {
-    background-position: -185.5px -299px
-}
-
 .flair-badkitty,
 .flair-eden,
-.flair-eden-gold,
 .flair-kasbo,
-.flair-kasbo-gold,
 .flair-snavs,
-.flair-snavs-gold,
 .flair-splitbreed,
-.flair-splitbreed-gold,
 .flair-subtact,
-.flair-subtact-gold,
 .flair-televisor,
-.flair-televisor-gold,
 .flair-tristam-2,
-.flair-twothirds,
-.flair-twothirds-gold {
+.flair-twothirds,{
     width: 19px;
 }
 
@@ -790,20 +450,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     background-position: -206px -299px
 }
 
-.flair-twothirds-gold {
-    background-position: -226px -299px
-}
-
 .flair-badkitty {
     background-position: -246px -299px
-}
-
-.flair-eden-gold {
-    background-position: -266px -299px
-}
-
-.flair-kasbo-gold {
-    background-position: -286px -299px
 }
 
 .flair-twothirds {
@@ -814,16 +462,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     background-position: -326.5px -1px
 }
 
-.flair-snavs-gold {
-    background-position: -326.5px -21px
-}
-
 .flair-snavs {
     background-position: -326.5px -41px
-}
-
-.flair-televisor-gold {
-    background-position: -326.5px -61px
 }
 
 .flair-tristam-2 {
@@ -832,14 +472,6 @@ only screen and (min-device-pixel-ratio:1.5) {
 
 .flair-eden {
     background-position: -326.5px -101px
-}
-
-.flair-subtact-gold {
-    background-position: -326.5px -121px
-}
-
-.flair-splitbreed-gold {
-    background-position: -326.5px -141px
 }
 
 .flair-splitbreed {
@@ -855,29 +487,16 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 7px
 }
 
-.flair-hellberg-gold {
-    background-position: -134px -289px;
-    height: 7px
-}
-
 .flair-au5,
-.flair-au5-gold,
-.flair-teqq,
-.flair-teqq-gold {
+.flair-teqq {
     width: 18px;
 }
 
-.flair-au5-gold {
-    background-position: -326.5px -201px
-}
 
 .flair-teqq {
     background-position: -326.5px -221px
 }
 
-.flair-teqq-gold {
-    background-position: -326.5px -241px
-}
 
 .flair-au5 {
     background-position: -326.5px -261px
@@ -888,17 +507,10 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 6.5px
 }
 
-.flair-obsidia-gold {
-    background-position: -222px -289px;
-    height: 6.5px
-}
-
 .flair-agno3,
 .flair-direct,
-.flair-direct-gold,
 .flair-letsbefriends,
-.flair-volant,
-.flair-volant-gold {
+.flair-volant{
     width: 16.5px
 }
 
@@ -906,16 +518,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     background-position: -326.5px -281px
 }
 
-.flair-volant-gold {
-    background-position: -263px -259px
-}
-
 .flair-direct {
     background-position: -1px -319px
-}
-
-.flair-direct-gold {
-    background-position: -19.5px -319px
 }
 
 .flair-agno3 {
@@ -926,36 +530,15 @@ only screen and (min-device-pixel-ratio:1.5) {
     background-position: -56.5px -319px
 }
 
-.flair-letsbefriends-gold {
-    background-position: -75px -319px;
-    width: 16.5px
-}
-
-.flair-agno3-gold {
-    background-position: -93.5px -319px;
-    width: 16.5px
-}
-
 .flair-insan3lik3,
-.flair-insan3lik3-gold,
 .flair-mcat,
 .flair-mrfijiwiji,
-.flair-mrfijiwiji-gold,
-.flair-rogue,
-.flair-rogue-gold {
+.flair-rogue {
     width: 16px;
 }
 
 .flair-rogue {
     background-position: -112px -319px
-}
-
-.flair-mrfijiwiji-gold {
-    background-position: -130px -319px
-}
-
-.flair-insan3lik3-gold {
-    background-position: -148px -319px
 }
 
 .flair-mcat {
@@ -970,15 +553,6 @@ only screen and (min-device-pixel-ratio:1.5) {
     background-position: -202px -319px
 }
 
-.flair-rogue-gold {
-    background-position: -220px -319px
-}
-
-.flair-karmafields-gold {
-    background-position: -238px -319px;
-    width: 15.5px;
-}
-
 .flair-karmafields {
     background-position: -255.5px -319px;
     width: 15.5px;
@@ -989,21 +563,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 5.5px
 }
 
-.flair-droptek-gold {
-    background-position: -273px -319px;
-    width: 14.5px;
-}
-
-.flair-stereotronique-gold {
-    background-position: -72px -251px;
-    height: 5.5px
-}
-
 .flair-arion,
-.flair-arion-gold,
-.flair-fractal,
-.flair-fractal-gold,
-.flair-protostar-gold {
+.flair-fractal{
     width: 12px
 }
 
@@ -1012,17 +573,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     width: 14.5px
 }
 
-.flair-protostar-gold {
-    background-position: -267px -68.5px
-}
 
-.flair-arion-gold {
-    background-position: -267px -88.5px
-}
 
-.flair-fractal-gold {
-    background-position: -267px -108.5px
-}
 
 .flair-arion {
     background-position: -267px -128.5px
@@ -1038,23 +590,15 @@ only screen and (min-device-pixel-ratio:1.5) {
 }
 
 .flair-feint,
-.flair-feint-gold,
-.flair-laszlo,
-.flair-laszlo-gold {
+.flair-laszlo {
     width: 11.5px;
 }
 
-.flair-feint-gold {
-    background-position: -266px -188.5px
-}
 
 .flair-feint {
     background-position: -306px -319px
 }
 
-.flair-laszlo-gold {
-    background-position: -319.5px -319px
-}
 
 .flair-laszlo {
     background-position: -333px -319px
@@ -1065,37 +609,17 @@ only screen and (min-device-pixel-ratio:1.5) {
     width: 10px;
 }
 
-.flair-nanobii-gold {
-    background-position: -346.5px -21px;
-    width: 10px;
-}
-
-.flair-noisestorm-gold {
-    background-position: -346.5px -41px;
-    width: 9.5px;
-}
-
 .flair-noisestorm {
     background-position: -346.5px -61px;
     width: 9.5px;
 }
 
-.flair-muzzy,
-.flair-muzzy-gold {
+.flair-muzzy {
     width: 12px;
 }
 
-.flair-soulero,
-.flair-soulero-gold {
+.flair-soulero {
     width: 9px;
-}
-
-.flair-muzzy-gold {
-    background-position: -346.5px -81px
-}
-
-.flair-soulero-gold {
-    background-position: -346.5px -101px
 }
 
 .flair-soulero {
@@ -1118,20 +642,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 17px
 }
 
-.flair-annayvette-gold {
-    background-position: -309px -378px;
-    width: 12px;
-    height: 17px
-}
-
 .flair-anevo {
     background-position: -317px -344px;
-    width: 37px;
-    height: 10px
-}
-
-.flair-anevo-gold {
-    background-position: -357px -344px;
     width: 37px;
     height: 10px
 }
@@ -1142,20 +654,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 17px
 }
 
-.flair-candyland-gold {
-    background-position: -47px -376px;
-    width: 46px;
-    height: 17px
-}
-
 .flair-directnew {
     background-position: -1px -358px;
-    width: 16px;
-    height: 17px
-}
-
-.flair-directnew-gold {
-    background-position: -17px -358px;
     width: 16px;
     height: 17px
 }
@@ -1166,20 +666,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 17px
 }
 
-.flair-dirtyaudio-gold {
-    background-position: -201px -412px;
-    width: 33px;
-    height: 17px
-}
-
 .flair-drapernew {
     background-position: -135px -378px;
-    width: 52px;
-    height: 14px
-}
-
-.flair-drapernew-gold {
-    background-position: -17px -378px;
     width: 52px;
     height: 14px
 }
@@ -1190,20 +678,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 17px
 }
 
-.flair-glacier-gold {
-    background-position: -116.5px -376.5px;
-    width: 17px;
-    height: 17px
-}
-
 .flair-haywyrenew {
     background-position: -230px -360px;
-    width: 48px;
-    height: 8px
-}
-
-.flair-haywyrenew-gold {
-    background-position: -230px -368px;
     width: 48px;
     height: 8px
 }
@@ -1214,24 +690,11 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 16px
 }
 
-.flair-hellbergnew-gold {
-    background-position: -174px -395px;
-    width: 52px;
-    height: 16px
-}
-
 .flair-hush {
     background-position: -283px -395px;
     width: 36px;
     height: 16px
 }
-
-.flair-hush-gold {
-    background-position: -638px -395px;
-    width: 36px;
-    height: 16px
-}
-
 .flair-karmafields2 {
     background-position: -45.6px -61.6px;
     width: 53px;
@@ -1243,19 +706,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 10px
 }
 
-.flair-koven-gold {
-    background-position: -283px -414px;
-    width: 51px;
-    height: 10px
-}
-
 .flair-loosid {
     background-position: -264px -341px;
-    width: 18px;
-}
-
-.flair-loosid-gold {
-    background-position: -282px -341px;
     width: 18px;
 }
 
@@ -1265,30 +717,13 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 16px
 }
 
-.flair-marshmello-gold {
-    background-position: -29px -411px;
-    width: 29px;
-    height: 16px
-}
-
 .flair-melano {
     background-position: -223px -341px;
     width: 20px;
 }
 
-.flair-melano-gold {
-    background-position: -245px -341px;
-    width: 20px;
-}
-
 .flair-notaker {
     background-position: -130px -346px;
-    width: 47px;
-    height: 9px
-}
-
-.flair-notaker-gold {
-    background-position: -178px -346px;
     width: 47px;
     height: 9px
 }
@@ -1299,30 +734,13 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 13px
 }
 
-.flair-project46new-gold {
-    background-position: -60px -394px;
-    width: 60px;
-    height: 13px
-}
-
 .flair-ramesesbnew {
     background-position: -245px -377px;
     width: 23px;
 }
 
-.flair-ramesesbnew-gold {
-    background-position: -270px -378px;
-    width: 23px;
-}
-
 .flair-razihelnew {
     background-position: -279px -360px;
-    width: 35px;
-    height: 6px
-}
-
-.flair-razihelnew-gold {
-    background-position: -279px -368px;
     width: 35px;
     height: 6px
 }
@@ -1333,32 +751,15 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 16px
 }
 
-.flair-richedwardsnew-gold {
-    background-position: -254px -395px;
-    width: 28px;
-    height: 16px
-}
-
 .flair-rootkitnew {
     background-position: -132px -359px;
     width: 47px;
     height: 10px
 }
 
-.flair-rootkitnew-gold {
-    background-position: -17px -359px;
-    width: 47px;
-    height: 10px
-}
 
 .flair-slushii {
     background-position: -60px -411px;
-    width: 54px;
-    height: 16px
-}
-
-.flair-slushii-gold {
-    background-position: -114px -411px;
     width: 54px;
     height: 16px
 }
@@ -1369,19 +770,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 18px
 }
 
-.flair-soupandreas-gold {
-    background-position: -340px -375px;
-    width: 16px;
-}
-
 .flair-tokyomachine {
     background-position: 0 -341px;
-    width: 28px;
-    height: 16px
-}
-
-.flair-tokyomachine-gold {
-    background-position: -28px -341px;
     width: 28px;
     height: 16px
 }
@@ -1392,20 +782,8 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 17px
 }
 
-.flair-topi-gold {
-    background-position: -115px -341px;
-    width: 17px;
-    height: 17px
-}
-
 .flair-tuttutchildnew {
     background-position: -34px -358px;
-    width: 48px;
-    height: 17px
-}
-
-.flair-tutttutchildnew-gold {
-    background-position: -82px -358px;
     width: 48px;
     height: 17px
 }
@@ -1416,21 +794,9 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 17px
 }
 
-.flair-unlikepluto-gold {
-    background-position: -78px -341px;
-    width: 22px;
-    height: 17px
-}
-
 .flair-grant {
     background-position: -90px -104px;
     width: 43px;
-    height: 8px
-}
-
-.flair-grant-gold {
-    background-position: -133px -140px;
-    width: 45px;
     height: 8px
 }
 
@@ -1487,6 +853,5 @@ a.author[href$="/EternalHipster"]::before {
 a.author[href$="/Numiiigoesrawrz"]::before {
     content: "[Mod Alumna]"
 }
-
 
 
