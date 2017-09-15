@@ -82,3 +82,11 @@
 .side .md blockquote:last-of-type p a:nth-of-type(9) {
     background-image: url(%%tbicon%%)
 }
+
+/* Hide Icons after certain point */
+@media (max-device-width: 1242px),
+(max-width: 1242px) {
+    .side .md blockquote:last-of-type p {
+        display: none !important
+    }
+}
