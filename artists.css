@@ -103,3 +103,14 @@ a.author[href$="/podcastmod"]::after {
 a.author[href$="/ImTimmyTrumpet"]::after {
     content: "ImNotTimmyTrumpet"
 }
+
+a.author[href$="/3vans"]::before,
+a.author[href$="/Troutz"]::before,
+a.author[href$="/EternalHipster"]::before {
+    content: "[Mod Alumnus] "
+}
+
+a.author[href$="/Numiiigoesrawrz"]::before {
+    content: "[Mod Alumna]"
+}
+
