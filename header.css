@@ -40,3 +40,7 @@
 #header {
     height: 197px
 }
+
+div#header-bottom-left {
+    margin-top: -10px;
+}
