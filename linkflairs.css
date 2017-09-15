@@ -323,3 +323,47 @@ html:lang(vs) .linkflair-spoiler:hover .thumbnail img {
 .link.linkflair-edm.stickied {
     background-color: rgba(194, 193, 194, 0.24);
 }
+
+/**
+ * Dont show link flair options to non-mods
+ */
+
+
+body:not(.moderator) .flairoptionpane .linkflair-album,
+body:not(.moderator) .flairoptionpane .linkflair-ama,
+body:not(.moderator) .flairoptionpane .linkflair-drumbass,
+body:not(.moderator) .flairoptionpane .linkflair-drumstep,
+body:not(.moderator) .flairoptionpane .linkflair-dubstep,
+body:not(.moderator) .flairoptionpane .linkflair-edm,
+body:not(.moderator) .flairoptionpane .linkflair-electro,
+body:not(.moderator) .flairoptionpane .linkflair-ep,
+body:not(.moderator) .flairoptionpane .linkflair-futurebass,
+body:not(.moderator) .flairoptionpane .linkflair-glitchhop,
+body:not(.moderator) .flairoptionpane .linkflair-harddance,
+body:not(.moderator) .flairoptionpane .linkflair-house,
+body:not(.moderator) .flairoptionpane .linkflair-lp,
+body:not(.moderator) .flairoptionpane .linkflair-nudisco,
+body:not(.moderator) .flairoptionpane .linkflair-podcast,
+body:not(.moderator) .flairoptionpane .linkflair-remixcomp,
+body:not(.moderator) .flairoptionpane .linkflair-trance,
+body:not(.moderator) .flairoptionpane .linkflair-trap,
+body:not(.moderator) .linkflair-album:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-ama:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-drumbass:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-drumstep:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-dubstep:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-edm:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-electro:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-ep:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-futurebass:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-glitchhop:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-harddance:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-house:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-lp:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-nudisco:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-podcast:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-remixcomp:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-trance:not(.stickied) .linkflairlabel,
+body:not(.moderator) .linkflair-trap:not(.stickied) .linkflairlabel {
+    display: none
+}
