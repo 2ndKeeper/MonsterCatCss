@@ -8,7 +8,8 @@
     width: 320px;
     background-image: url(%%logo%%);
     background-repeat: no-repeat;
-    background-size: auto 42px
+    background-size: auto 42px;
+    font-size: 0px;
 }
 
 /**
