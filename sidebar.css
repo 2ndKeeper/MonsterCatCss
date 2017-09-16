@@ -104,6 +104,14 @@ body .content .sitetable .link .title a:hover {
     .side:hover:after {
         opacity: 0;
     }
+    .side {
+background:white !important
+}
+
+.side .spacer {
+    padding-top: 113px;
+}
+
 }
 
 #header-img {
