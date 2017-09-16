@@ -50,3 +50,7 @@ body button:active {
     background-color: #1d6fa9;
     text-align:center
 }
+
+button.btn {
+    text-align: center !important;
+}
