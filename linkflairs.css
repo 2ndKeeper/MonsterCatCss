@@ -172,6 +172,9 @@ html:lang(vs) .linkflair-spoiler:hover .thumbnail img {
     color: #9a9a9a!important
 }
 
+
+
+
 .linkflair-album.stickied .linkflairlabel,
 .linkflair-ama.stickied .linkflairlabel,
 .linkflair-ep.stickied .linkflairlabel,
@@ -325,6 +328,10 @@ html:lang(vs) .linkflair-spoiler:hover .thumbnail img {
 }
 .link.linkflair-remixcomp.stickied {
     background-color: rgba(134, 210, 255, 0.32);
+}
+
+.link.linkflair-dubstep.stickied {
+    background-color: rgba(209, 116, 253, 0.23);
 }
 
 /**
