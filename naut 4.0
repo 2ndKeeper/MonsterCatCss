@@ -3007,30 +3007,9 @@ pre {
     margin: 0 0 4em
 }
 
-#images:before {
-    position: fixed;
-    padding: 16px;
-    color: #fff;
-    bottom: 0;
-    background-color: #2E2F31;
-    content: "Hey! There's a FAQ if you just scroll down a little.";
-    font-size: 18px
-}
-
 .flair,
 .link .flair {
     font-size: 12px
-}
-
-#images:after {
-    content: "";
-    position: absolute;
-    height: 800px;
-    bottom: -1200px;
-    background-color: #fff;
-    background-image: url(%%faq%%);
-    background-repeat: no-repeat;
-    background-position: 50% 50%
 }
 
 .flair {
