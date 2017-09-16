@@ -67,3 +67,8 @@ img.res-image-media.res-media-zoomable {
 .res-icon {
     font-family: Batch !important;
 }
+
+/* No Selected Item Background */
+.usertext-body.may-blank-within.md-container {
+    background: transparent !important;
+}
