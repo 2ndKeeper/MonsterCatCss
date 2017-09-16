@@ -171,3 +171,13 @@ span.linkflairlabel {
 .thing.link.stickied a.title, .thing.link.stickied a, .thing.link.stickied .entry li .comments {
     color: #6e6e6e!important;
 }
+
+/* Search page fixes */
+
+.search-page #header-bottom-left a {
+    display: inline-block !important;
+    margin-top: 0px !important;
+}
+.search-page #header-bottom-left .pagename a {
+    margin-top: 42px !important;
+}
