@@ -62,8 +62,8 @@ img.res-image-media.res-media-zoomable {
     max-width: 732px !important;
 }
 
-/* Remove floating buttons */
+/* Fix res icons */
 
-div#NREFloat {
-    display: none;
+.res-icon {
+    font-family: Batch !important;
 }
