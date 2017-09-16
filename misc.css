@@ -281,7 +281,3 @@ div#srLeftContainer a {
 .thing.link.stickied a.title, .thing.link.stickied a, .thing.link.stickied .entry li .comments {
     color: #6e6e6e!important;
 }
-/* Hide domains (self.mcat) */
-span.domain {
-    display: none;
-}
