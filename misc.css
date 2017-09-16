@@ -273,3 +273,5 @@ div#srLeftContainer a {
 #search #searchexpando { 
     line-height: 0px !important;
 }
+
+.link.last-clicked {background: none;}
