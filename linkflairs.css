@@ -374,3 +374,13 @@ body:not(.moderator) .linkflair-trap:not(.stickied) .linkflairlabel {
 span.linkflairlabel {
     background-color: white !important
 }
+
+/* Expand stickied colors to full size */
+
+.link.stickied {
+    left: -16px;
+    margin-right: -32px;
+    padding-left: 16px;
+    background-color: rgba(0,0,0,0.04);
+    border: none;
+}
