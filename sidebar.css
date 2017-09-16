@@ -105,7 +105,8 @@ body .content .sitetable .link .title a:hover {
         opacity: 0;
     }
     .side {
-background:white !important
+background:white !important;
+            top: 25px;
 }
 
 .side .spacer {
@@ -129,3 +130,4 @@ div#srLeftContainer a {
 #header .tabmenu li.selected a {
     font-weight: bold
 }
+
