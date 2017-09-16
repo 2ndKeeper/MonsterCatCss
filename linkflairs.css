@@ -367,3 +367,7 @@ body:not(.moderator) .linkflair-trance:not(.stickied) .linkflairlabel,
 body:not(.moderator) .linkflair-trap:not(.stickied) .linkflairlabel {
     display: none
 }
+
+span.linkflairlabel {
+    background-color: white !important
+}
