@@ -252,3 +252,10 @@ div#srLeftContainer a {
  */
 .footer-parent{height:800px;margin-top:192px;padding:528px 0 64px;background-image:url(%%footer%%);background-repeat:no-repeat;background-position:50% 0;background-size:cover}.footer{border:0 solid;border-radius:2px;background-color:rgba(43, 51, 58, 0.64);padding:16px;max-width:640px}.footer .col{padding:0 24px;border:none}.flat-vert.title,.bottommenu a{color:rgba(255,255,255,0.7)}.bottommenu{color:rgba(255,255,255,0.42)}
 
+/**
+ * Remove flairs on the sidebox with recent links 
+ */
+
+.sidecontentbox .content .gadget .reddit-link .linkflairlabel {
+    display: none;
+}
