@@ -839,6 +839,14 @@ only screen and (min-device-pixel-ratio:1.5) {
     height: 18px
 }
 
+span.flair {
+    color: transparent
+}
+
+span.flair-goldMember {
+    color: #B79C1F !important
+}
+
 /**
  * /-/-/-/-/-/-/-/-/ END USER FLAIRS /-/-/-/-/-/-/-/-/
  */
