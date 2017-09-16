@@ -259,3 +259,17 @@ div#srLeftContainer a {
 .sidecontentbox .content .gadget .reddit-link .linkflairlabel {
     display: none;
 }
+
+/**
+ * Remove create subreddit button
+ */
+
+.create div.morelink {
+    display: none;
+}
+
+/** fix search bar stuff
+*/
+#search #searchexpando { 
+    line-height: 0px !important;
+}
