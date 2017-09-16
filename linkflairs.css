@@ -323,6 +323,9 @@ html:lang(vs) .linkflair-spoiler:hover .thumbnail img {
 .link.linkflair-edm.stickied {
     background-color: rgba(194, 193, 194, 0.24);
 }
+.link.linkflair-remixcomp.sticked {
+    background-color: rgba(134, 210, 255, 0.32);
+}
 
 /**
  * Dont show link flair options to non-mods
