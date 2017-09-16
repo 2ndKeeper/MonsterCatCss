@@ -44,3 +44,8 @@
 div#header-bottom-left {
     margin-top: -10px;
 }
+
+/* Change text colors in the header to gray */
+div#sr-header-area * {
+    color: #525252 !important;
+}
