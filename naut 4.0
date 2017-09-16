@@ -2124,19 +2124,6 @@ div.titlebox span.word {
     width: 38px
 }
 
-.side:after {
-    display: block;
-    margin: 0;
-    padding: 10px 0;
-    content: "This subreddit uses the /r/Naut theme.";
-    text-transform: none;
-    font-size: 16px;
-    position: absolute;
-    width: 320px;
-    border: 1px solid rgba(0, 0, 0, .06);
-    text-align: center
-}
-
 body.comments-page>.content {
     margin-top: 8px
 }
