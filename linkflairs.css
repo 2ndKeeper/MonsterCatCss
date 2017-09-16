@@ -283,59 +283,59 @@ html:lang(vs) .linkflair-spoiler:hover .thumbnail img {
  */
  
  .link.linkflair-drumbass.stickied {
-    background-color: rgba(255, 0, 0, 0.18);
+    background-color: rgba(255, 0, 0);
 }
 
 .link.linkflair-drumstep.stickied,
 .link.linkflair-dubstep.stickied {
-    background-color: rgba(253, 116, 181, 0.23);
+    background-color: rgba(253, 116, 181);
 }
 
 .link.linkflair-futurebass.stickied {
-    background-color: rgba(218, 116, 253, 0.23);
+    background-color: rgba(218, 116, 253);
 }
 
 .link.linkflair-glitchhop.stickied {
-    background-color: rgba(116, 253, 169, 0.23);
+    background-color: rgba(116, 253, 169);
 }
 
 .link.linkflair-house.stickied {
-    background-color: rgba(253, 184, 116, 0.23);
+    background-color: rgba(253, 184, 116);
 }
 
 .link.linkflair-nudisco.stickied {
-    background-color: rgba(116, 253, 241, 0.23);
+    background-color: rgba(116, 253, 241);
 }
 
 .link.linkflair-trance.stickied {
-    background-color: rgba(95, 153, 207, 0.24);
+    background-color: rgba(95, 153, 207);
 }
 
 .link.linkflair-trap.stickied {
-    background-color: rgba(207, 95, 125, 0.24);
+    background-color: rgba(207, 95, 125);
 }
 
 .link.linkflair-electro.stickied {
-    background-color: rgba(226, 217, 4, 0.24);
+    background-color: rgba(226, 217, 4);
 }
 
 .link.linkflair-electro.stickied {
-    background-color: rgba(226, 217, 4, 0.23);
+    background-color: rgba(226, 217, 4);
 }
 
 .link.linkflair-edm.stickied {
-    background-color: rgba(194, 193, 194, 0.24);
+    background-color: rgba(194, 193, 194);
 }
 .link.linkflair-remixcomp.stickied {
-    background-color: rgba(134, 210, 255, 0.32);
+    background-color: rgba(134, 210, 255);
 }
 
 .link.linkflair-dubstep.stickied {
-    background-color: rgba(209, 116, 253, 0.23);
+    background-color: rgba(209, 116, 253);
 }
 
 .link.linkflair-harddance.stickied {
-    background: rgba(49, 255, 65, 0.28);
+    background: rgba(49, 255, 65);
 }
 
 /**
