@@ -49,3 +49,7 @@ div#header-bottom-left {
 div#sr-header-area * {
     color: #525252 !important;
 }
+
+#header .tabmenu {
+    margin-top: 22px;
+}
