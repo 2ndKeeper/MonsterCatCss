@@ -334,6 +334,10 @@ html:lang(vs) .linkflair-spoiler:hover .thumbnail img {
     background-color: rgba(209, 116, 253, 0.23);
 }
 
+.link.linkflair-harddance.stickied {
+    background: rgba(49, 255, 65, 0.28);
+}
+
 /**
  * Dont show link flair options to non-mods
  */
