@@ -213,16 +213,25 @@ html:lang(vs) .linkflair-spoiler:hover .thumbnail img {
  * Added custom thumbnails to megathreads
  */
 .linkflair-remixcomp.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%) /*monstercatflair*/
+    background: url(%%blackmcat%%) /*monstercatflair*/
 }
 
-.linkflair-ama.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%) /*ama*/
-}
 
 .linkflair-album.stickied .thumbnail.self,
 .linkflair-ep.stickied .thumbnail.self,
-.linkflair-lp.stickied .thumbnail.self {
+.linkflair-lp.stickied .thumbnail.self, 
+.linkflair-drumbass.stickied .thumbnail.self,
+.linkflair-drumstep.stickied .thumbnail.self,
+.linkflair-dubstep.stickied .thumbnail.self,
+.linkflair-edm.stickied .thumbnail.self,
+.linkflair-electro.stickied .thumbnail.self,
+.linkflair-futurebass.stickied .thumbnail.self,
+.linkflair-glitchhop.stickied .thumbnail.self,
+.linkflair-harddance.stickied .thumbnail.self,
+.linkflair-house.stickied .thumbnail.self,
+.linkflair-nudisco.stickied .thumbnail.self,
+.linkflair-trance.stickied .thumbnail.self,
+.linkflair-trap.stickied .thumbnail.self {
     background: url(%%mcatlogo%%) 
 }
 
@@ -230,54 +239,12 @@ html:lang(vs) .linkflair-spoiler:hover .thumbnail img {
     background: url(%%podcast%%)
 }
 
-.linkflair-drumbass.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%)
+.linkflair-ama.stickied .thumbnail.self {
+    background: url(%%blackmcat%%) /*needed*/
 }
-
-.linkflair-drumstep.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%)
+.linkflair-spoiler.stickied .thumbnail.self {
+    background: url(%%spoiler%%) /*needed*/
 }
-
-.linkflair-dubstep.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%)
-}
-
-.linkflair-edm.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%)
-}
-
-.linkflair-electro.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%)
-}
-
-.linkflair-futurebass.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%)
-}
-
-.linkflair-glitchhop.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%)
-}
-
-.linkflair-harddance.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%)
-}
-
-.linkflair-house.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%)
-}
-
-.linkflair-nudisco.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%)
-}
-
-.linkflair-trance.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%)
-}
-
-.linkflair-trap.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%)
-}
-
 /**
  * Colors
  */
