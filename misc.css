@@ -186,6 +186,10 @@ span.linkflairlabel {
     color: white !important;
 }
 
+.stickied.comment .tagline {
+    color: black !important;
+}
+
 .res-srstyle-enabled .content .commentarea .comment p.tagline a {
     color: black !important;
 }
