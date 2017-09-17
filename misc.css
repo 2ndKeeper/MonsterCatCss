@@ -127,10 +127,7 @@ span.linkflairlabel {
 
 .thumbnail.spoiler {
     background: url(%%dnb%%);
-    height: 60px;
-    width: 60px;
-    margin-left: 10px;
-    margin-right: 26px;
+    height: 58px;
 }
 
 /**
