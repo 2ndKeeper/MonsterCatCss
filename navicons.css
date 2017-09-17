@@ -90,3 +90,7 @@
         display: none !important
     }
 }
+
+.search-page .side .md blockquote:last-of-type, .search-page .side .md blockquote:last-of-type * {
+    display:none
+}
