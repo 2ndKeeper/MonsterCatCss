@@ -182,7 +182,7 @@ span.linkflairlabel {
     margin-top: 42px !important;
 }
 
-.stickied .entry .tagline { 
+.link.stickied .entry .tagline { 
     color: white !important;
 }
 
@@ -190,13 +190,13 @@ span.linkflairlabel {
     color: black !important;
 }
 
-.res-srstyle-enabled .content .commentarea .comment p.tagline a {
+ .content .commentarea .comment p.tagline a {
     color: black !important;
 }
-.res-srstyle-enabled .commentarea .comment p.tagline span.userattrs a{
+.commentarea .comment p.tagline span.userattrs a{
     color: black !important;
 }
-.res-srstyle-enabled .commentarea .comment.stickied p.tagline a.moderator, .commentarea .comment p.tagline a.submitter {
+.commentarea .comment.stickied p.tagline a.moderator, .commentarea .comment p.tagline a.submitter {
     color: white !important;
 }
 
@@ -207,7 +207,7 @@ span.linkflairlabel {
 
 body > .content {padding-top: 0 !important}
 
-.stickied .expando * {color: white}
+.link.stickied .expando * {color: white}
 
 .linkflair-electro.stickied .expando * {
     color: black !important;
@@ -229,7 +229,7 @@ body > .content {padding-top: 0 !important}
     overflow: hidden;
 }
 
-.stickied .expando * {
+.link.stickied .expando * {
 	color: white
 }
 .linkflair-electro.stickied .expando *, .linkflair-edm.stickied .expando *, .linkflair-podcast.stickied .expando * {
