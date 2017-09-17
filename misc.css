@@ -194,7 +194,7 @@ span.linkflairlabel {
 }
 .commentarea .comment p.tagline span.userattrs a{
     color: black !important;
-}(edited)
+}
 .commentarea .comment.stickied p.tagline a.moderator, .commentarea .comment p.tagline a.submitter {
     color: white !important;
 }
