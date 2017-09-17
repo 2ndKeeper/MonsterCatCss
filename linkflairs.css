@@ -227,7 +227,7 @@ html:lang(vs) .linkflair-spoiler:hover .thumbnail img {
 }
 
 .linkflair-podcast.stickied .thumbnail.self {
-    background: url(%%mcatlogo%%)
+    background: url(%%podcast%%)
 }
 
 .linkflair-drumbass.stickied .thumbnail.self {
