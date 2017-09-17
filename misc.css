@@ -197,9 +197,7 @@ span.linkflairlabel {
  .content div.commentarea div.comment p.tagline a {
     color: black !important;
 }
-
-
-.res .commentarea .comment.stickied p.tagline a.moderator, .commentarea .comment p.tagline a.submitter {
+html.res .commentarea div.comment p.tagline a.moderator, html.res div.commentarea div.comment p.tagline a.submitter {
     color: white !important;
 }
 
