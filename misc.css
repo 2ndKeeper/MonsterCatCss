@@ -207,3 +207,7 @@ span.linkflairlabel {
 body > .content {padding-top: 0 !important}
 
 .expando * {color: white}
+
+.searchpane {
+    margin-top: 149px !important;
+}
