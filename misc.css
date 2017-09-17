@@ -198,3 +198,12 @@ span.linkflairlabel {
 .commentarea .comment.stickied p.tagline a.moderator, .commentarea .comment p.tagline a.submitter {
     color: white !important;
 }
+
+.RES-keyNav-activeElement .md-container, .RES-keyNav-activeElement hr {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+body > .content {padding-top: 0 !important}
+
+.expando * {color: white}
