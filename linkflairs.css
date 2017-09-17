@@ -321,7 +321,7 @@ html:lang(vs) .linkflair-spoiler:hover .thumbnail img {
 .link.linkflair-electro.stickied {
     background-color: #E2D904;
 }
-.link.linkflair-edm.stickied {
+.link.linkflair-edm.stickied, .link.linkflair-podcast.stickied {
     background-color: #C2C1C2;
 }
 .link.linkflair-harddance.stickied {
