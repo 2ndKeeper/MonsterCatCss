@@ -72,3 +72,17 @@ img.res-image-media.res-media-zoomable {
 .usertext-body.may-blank-within.md-container {
     background: transparent !important;
 }
+
+
+.res-searchHelper-searchPageTabs .search-page div.searchpane {
+    height: 100px !important;
+}
+.res-searchHelper-searchPageTabs div.content {
+    margin-top: -115px;
+}
+
+li.res-search-tab-options {
+    position: absolute;
+    right: 10px;
+    top: 47px;
+}
