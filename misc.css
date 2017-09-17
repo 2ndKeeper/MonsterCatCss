@@ -169,7 +169,11 @@ span.linkflairlabel {
 /* Some Title Stuff */
 
 .thing.link.stickied a.title, .thing.link.stickied a, .thing.link.stickied .entry li .comments {
-    color: #6e6e6e!important;
+    color: #fff !important;
+}
+
+.stickied.comment .tagline .stickied-tagline, .stickied.comment>.entry a, .thing.link.stickied .entry li .comments, .thing.link.stickied a.title, .thing.link.stickied li a {
+    color: #fff !important;
 }
 
 /* Search page fixes */
