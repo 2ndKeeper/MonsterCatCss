@@ -203,7 +203,7 @@ span.linkflairlabel {
     color: white !important;
 }
 
-.res div.commentarea div.comment p.tagline span.userattrs a {
+.res div.commentarea div.comment p.tagline span.userattrs a.moderator, .res div.commentarea div.comment p.tagline span.userattrs a.submitter {
     color: black !important;
 }
 
