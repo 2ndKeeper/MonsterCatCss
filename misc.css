@@ -206,7 +206,11 @@ span.linkflairlabel {
 
 body > .content {padding-top: 0 !important}
 
-.expando * {color: white}
+.stickied .expando * {color: white}
+
+.linkflair-electro.stickied .expando * {
+    color: black !important;
+}
 
 .searchpane {
     margin-top: 149px !important;
