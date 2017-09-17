@@ -190,17 +190,24 @@ span.linkflairlabel {
     color: black !important;
 }
 
- .content .commentarea .comment p.tagline a {
+.commentarea .comment p.tagline span.userattrs a{
     color: black !important;
 }
+
+ .content div.commentarea div.comment p.tagline a {
+    color: black !important;
+}
+
 
 .res .commentarea .comment.stickied p.tagline a.moderator, .commentarea .comment p.tagline a.submitter {
     color: white !important;
 }
 
-.commentarea .comment p.tagline span.userattrs a{
+.res div.commentarea div.comment p.tagline span.userattrs a {
     color: black !important;
 }
+
+
 
 .RES-keyNav-activeElement div.md-container, .RES-keyNav-activeElement hr {
     background: transparent !important;
