@@ -199,7 +199,7 @@ span.linkflairlabel {
     color: white !important;
 }
 
-.RES-keyNav-activeElement .md-container, .RES-keyNav-activeElement hr {
+.RES-keyNav-activeElement div.md-container, .RES-keyNav-activeElement hr {
     background: transparent !important;
     background-color: transparent !important;
 }
