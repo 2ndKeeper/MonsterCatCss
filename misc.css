@@ -227,3 +227,10 @@ body > .content {padding-top: 0 !important}
     background-position: -49px -168px;
     overflow: hidden;
 }
+
+.stickied .expando * {
+	color: white
+}
+.linkflair-electro.stickied .expando *, .linkflair-edm.stickied .expando *, .linkflair-podcast.stickied .expando * {
+	color: black !important;
+}
