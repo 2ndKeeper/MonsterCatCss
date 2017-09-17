@@ -184,3 +184,7 @@ span.linkflairlabel {
 .search-page #header-bottom-left .pagename a {
     margin-top: 42px !important;
 }
+
+.entry .tagline { 
+    color: white !important;
+}
