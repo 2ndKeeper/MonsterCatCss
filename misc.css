@@ -211,3 +211,15 @@ body > .content {padding-top: 0 !important}
 .searchpane {
     margin-top: 149px !important;
 }
+#moresearchinfo {
+    background: #fff7e9;
+}
+.search-page #previoussearch p a#search_showmore {
+    position: absolute;
+    left: 330px;
+    top: 8px;
+	background-image: none !important;
+    background-repeat: no-repeat;
+    background-position: -49px -168px;
+    overflow: hidden;
+}
