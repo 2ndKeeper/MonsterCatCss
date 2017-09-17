@@ -1,6 +1,6 @@
 
 .md table:nth-of-type(1) {
-    max-height: 40px;
+    max-height: 41px;
     overflow: hidden;
     display: block;
     text-align: center;
