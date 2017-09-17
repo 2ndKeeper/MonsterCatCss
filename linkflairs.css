@@ -70,58 +70,6 @@ body.moderator .flairselector .linkflair-remixcomp .linkflairlabel {
 }
 
 /**
- * Hide Spoiler Title
- */
-html:lang(ns) .linkflair-spoiler a.title,
-html:lang(vs) .linkflair-spoiler a.title {
-    background: #000;
-    color: #000;
-    transition: background .15s ease
-}
-
-/**
- * Hide Spoiler Thumbnail
- */
-html:lang(ns) .linkflair-spoiler .thumbnail,
-html:lang(vs) .linkflair-spoiler .thumbnail {
-    background: #000;
-    transition: background .15s ease
-}
-
-/**
- * Make spoiler thumbnail invisible
- */
-html:lang(ns) .linkflair-spoiler .thumbnail img,
-html:lang(vs) .linkflair-spoiler .thumbnail img {
-    opacity: 0;
-    transition: opacity .15s ease
-}
-
-/**
- * Transition time on spoiler stuff
- */
-html:lang(ns) .linkflair-spoiler .thumbnail,
-html:lang(ns) .linkflair-spoiler .thumbnail img,
-html:lang(ns) .linkflair-spoiler a.title,
-html:lang(vs) .linkflair-spoiler .thumbnail,
-html:lang(vs) .linkflair-spoiler .thumbnail img,
-html:lang(vs) .linkflair-spoiler a.title {
-    transition-delay: .3s
-}
-
-html:lang(ns) .linkflair-spoiler:hover .thumbnail,
-html:lang(ns) .linkflair-spoiler:hover a.title,
-html:lang(vs) .linkflair-spoiler:hover .thumbnail,
-html:lang(vs) .linkflair-spoiler:hover a.title {
-    background: 0 0
-}
-
-html:lang(ns) .linkflair-spoiler:hover .thumbnail img,
-html:lang(vs) .linkflair-spoiler:hover .thumbnail img {
-    opacity: 1
-}
-
-/**
  * Change flair text color for stickied link flairs
  */
 .linkflair-futurebass.stickied .linkflairlabel {
@@ -240,7 +188,7 @@ html:lang(vs) .linkflair-spoiler:hover .thumbnail img {
 }
 
 .linkflair-ama.stickied .thumbnail.self {
-    background: url(%%blackmcat%%) /*needed*/
+    background: url(%%mcatlogo%%) /*needed*/
 }
 .linkflair-spoiler.stickied .thumbnail.self {
     background: url(%%spoiler%%) /*needed*/
@@ -248,6 +196,10 @@ html:lang(vs) .linkflair-spoiler:hover .thumbnail img {
 /**
  * Colors
  */
+
+.link.linkflair-ama.stickied {
+    background-color: rgba(0,0,0,0.8);
+}
  
  .link.linkflair-drumbass.stickied {
     background-color: #E10304;
