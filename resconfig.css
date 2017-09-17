@@ -77,7 +77,7 @@ img.res-image-media.res-media-zoomable {
 .res-searchHelper-searchPageTabs .search-page div.searchpane {
     height: 100px !important;
 }
-.res-searchHelper-searchPageTabs div.content {
+.res-searchHelper-searchPageTabs .search-page div.content {
     margin-top: -115px;
 }
 
