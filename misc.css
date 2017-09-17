@@ -193,11 +193,13 @@ span.linkflairlabel {
  .content .commentarea .comment p.tagline a {
     color: black !important;
 }
+
+.res .commentarea .comment.stickied p.tagline a.moderator, .commentarea .comment p.tagline a.submitter {
+    color: white !important;
+}
+
 .commentarea .comment p.tagline span.userattrs a{
     color: black !important;
-}
-.commentarea .comment.stickied p.tagline a.moderator, .commentarea .comment p.tagline a.submitter {
-    color: white !important;
 }
 
 .RES-keyNav-activeElement div.md-container, .RES-keyNav-activeElement hr {
