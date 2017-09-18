@@ -190,7 +190,7 @@ body.moderator .flairselector .linkflair-remixcomp .linkflairlabel {
 .linkflair-ama.stickied .thumbnail.self {
     background: url(%%mcatlogo%%) /*needed*/
 }
-.linkflair-spoiler.stickied .thumbnail.self {
+.link.spoiler .thumbnail.self {
     background: url(%%spoiler%%) /*needed*/
 }
 /**
