@@ -109,7 +109,7 @@ a.author[href$="/podcastmod"],
 a.author[href$="/PhantomDarknessDashy"]{
     visibility: hidden;
     font-size: 0;
-    padding: 0 2px!important
+    padding: 0 2px 0 0!important
 }
 /**
  * Allow :after content to be seen
