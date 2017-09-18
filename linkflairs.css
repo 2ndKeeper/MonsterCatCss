@@ -164,7 +164,7 @@ body.moderator .flairselector .linkflair-remixcomp .linkflairlabel {
 }
 
 
-.link.stickied {
+.link.stickied .thumbnail.self {
     background: url(%%mcatlogo%%) 
 }
 
