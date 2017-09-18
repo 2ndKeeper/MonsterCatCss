@@ -293,12 +293,10 @@ span.linkflairlabel {
 
 /* Expand stickied colors to full size */
 
-.link.stickied {
-    left: -16px;
-    margin-right: -32px;
-    padding-left: 16px;
-    background-color: rgba(0,0,0,0.04);
-    border: none;
-}
 
+.link.linkflair-edm.stickied, .link.linkflair-podcast.stickied {
+    background-color: #C2C1C2;
+    background-image: url(https://b.thumbs.redditmedia.com/FRVO-rLRzXgInxRCxqYhlJu9rnZ2J7Y9eHr8WgmcjGk.png);
+    background-position-y: -767px;
+}
 
