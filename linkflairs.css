@@ -165,32 +165,32 @@ body.moderator .flairselector .linkflair-remixcomp .linkflairlabel {
 }
 
 
-.linkflair-album.stickied .thumbnail.self,
-.linkflair-ep.stickied .thumbnail.self,
-.linkflair-lp.stickied .thumbnail.self, 
-.linkflair-drumbass.stickied .thumbnail.self,
-.linkflair-drumstep.stickied .thumbnail.self,
-.linkflair-dubstep.stickied .thumbnail.self,
-.linkflair-edm.stickied .thumbnail.self,
-.linkflair-electro.stickied .thumbnail.self,
-.linkflair-futurebass.stickied .thumbnail.self,
-.linkflair-glitchhop.stickied .thumbnail.self,
-.linkflair-harddance.stickied .thumbnail.self,
-.linkflair-house.stickied .thumbnail.self,
-.linkflair-nudisco.stickied .thumbnail.self,
-.linkflair-trance.stickied .thumbnail.self,
-.linkflair-trap.stickied .thumbnail.self {
+.linkflair-album.stickied .thumbnail,
+.linkflair-ep.stickied .thumbnail,
+.linkflair-lp.stickied .thumbnail, 
+.linkflair-drumbass.stickied .thumbnail,
+.linkflair-drumstep.stickied .thumbnail,
+.linkflair-dubstep.stickied .thumbnail,
+.linkflair-edm.stickied .thumbnail,
+.linkflair-electro.stickied .thumbnail,
+.linkflair-futurebass.stickied .thumbnail,
+.linkflair-glitchhop.stickied .thumbnail,
+.linkflair-harddance.stickied .thumbnail,
+.linkflair-house.stickied .thumbnail,
+.linkflair-nudisco.stickied .thumbnail,
+.linkflair-trance.stickied .thumbnail,
+.linkflair-trap.stickied .thumbnail {
     background: url(%%mcatlogo%%) 
 }
 
-.linkflair-podcast.stickied .thumbnail.self {
+.linkflair-podcast.stickied .thumbnail {
     background: url(%%podcast%%)
 }
 
-.linkflair-ama.stickied .thumbnail.self {
+.linkflair-ama.stickied .thumbnail {
     background: url(%%mcatlogo%%) /*needed*/
 }
-.link.spoiler .thumbnail.self {
+.link.spoiler .thumbnail {
     background: url(%%spoiler%%) /*needed*/
 }
 /**
