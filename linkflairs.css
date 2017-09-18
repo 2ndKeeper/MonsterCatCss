@@ -164,21 +164,7 @@ body.moderator .flairselector .linkflair-remixcomp .linkflairlabel {
 }
 
 
-.linkflair-album.stickied .thumbnail,
-.linkflair-ep.stickied .thumbnail,
-.linkflair-lp.stickied .thumbnail, 
-.linkflair-drumbass.stickied .thumbnail,
-.linkflair-drumstep.stickied .thumbnail,
-.linkflair-dubstep.stickied .thumbnail,
-.linkflair-edm.stickied .thumbnail,
-.linkflair-electro.stickied .thumbnail,
-.linkflair-futurebass.stickied .thumbnail,
-.linkflair-glitchhop.stickied .thumbnail,
-.linkflair-harddance.stickied .thumbnail,
-.linkflair-house.stickied .thumbnail,
-.linkflair-nudisco.stickied .thumbnail,
-.linkflair-trance.stickied .thumbnail,
-.linkflair-trap.stickied .thumbnail {
+.link.stickied {
     background: url(%%mcatlogo%%) 
 }
 
@@ -195,6 +181,10 @@ body.moderator .flairselector .linkflair-remixcomp .linkflairlabel {
 /**
  * Colors
  */
+
+.link.stickied {
+    background-color: #59cd9d;
+}
 
 .link.linkflair-ama.stickied {
     background-color: rgba(0,0,0,0.8);
