@@ -122,7 +122,6 @@ body.moderator .flairselector .linkflair-remixcomp .linkflairlabel {
 
 
 
-
 .linkflair-album.stickied .linkflairlabel,
 .linkflair-ama.stickied .linkflairlabel,
 .linkflair-ep.stickied .linkflairlabel,
@@ -246,6 +245,13 @@ body.moderator .flairselector .linkflair-remixcomp .linkflairlabel {
 .link.linkflair-harddance.stickied {
     background: #0DB104;
 }
+
+
+.linkflair-ep.stickied, .linkflair-lp.stickied, .linkflair-album.stickied {
+    background: #6c6c6c !important;
+}
+
+
 
 /**
  * Dont show link flair options to non-mods
