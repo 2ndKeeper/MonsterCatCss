@@ -28,13 +28,17 @@
     background-size: contain;
     height: 93px;
     margin-top: -40px;
-    width: 69px
+    width: 69px;
+    transform: rotate(0deg);
+    transition: transform .2s ease-in-out, background .2s ease-in-out !important;
 }
 
 #header-img.default-header:hover,
 #header-img:hover {
     background: url(%%snoo3%%) no-repeat;
-    height: 76px width: 69px
+    height: 76px width: 69px;
+    transform: rotate(360deg);
+    transition: transform .2s ease-in-out, background .2s ease-in-out !important;
 }
 
 #header {
