@@ -46,3 +46,20 @@ div#sr-header-area * {
 #header .tabmenu {
     margin-top: 22px
 }
+
+#header-img {
+    transition: background .1s linear
+}
+
+#header .tabmenu li a {
+    color: black
+}
+
+div#srLeftContainer a {
+    color: rgba(0, 0, 0, 0.65) !important
+}
+
+#header .tabmenu li.selected a {
+    font-weight: bold
+}
+
