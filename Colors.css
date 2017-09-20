@@ -1,0 +1,33 @@
+/**
+ * Change button colors
+ */
+.content .infobar,
+.drop-choices a.choice:hover,
+.morelink,
+.side .titlebox .md h3 a,
+.submit-page #newlink.submit.content ul.tabmenu.formtab,
+.submit_text.enabled.roundfield,
+.titlebox .md h3 a,
+body .btn,
+body button {
+    background-color: #1d6fa9
+}
+
+/* Button hover colors */
+.btn:hover,
+.morelink:hover,
+.side .titlebox .md h3 a:hover,
+body button:hover {
+    background-color: #0d5487
+}
+/* Button click colors */
+.morelink:active,
+.side .titlebox .md h3 a:active,
+.btn:active,
+body button:active {
+    background-color: #0a79cc
+}
+button.btn,
+.side .titlebox .md h3 a {
+    text-align: center !important
+}
