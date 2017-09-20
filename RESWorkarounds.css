@@ -1,0 +1,69 @@
+
+.res-nightmode #header-bottom-right,
+.res-nightmode #header-bottom-left li a {
+    background-color: transparent
+}
+
+.res-nightmode p,
+.res-nightmode textarea:focus .res-nightmode a,
+.res-nightmode div,
+.res-nightmode a.title,
+.res-nightmode .stickied.comment .tagline .stickied-tagline,
+.res-nightmode .stickied.comment>.entry a,
+.res-nightmode .thing.link.stickied .entry li .comments,
+.res-nightmode .thing.link.stickied a.title,
+.res-nightmode .thing.link.stickied li a {
+    color: #e8e8e8 !important
+}
+
+
+.res-nightmode .flairoptionpane * {
+    background-color: rgb(175, 175, 175)
+}
+
+.titlebox form.toggle.sr_style_toggle,
+form.res-sr-style-toggle {
+    padding-bottom: 0;
+    display: block;
+    background-color: transparent;
+    position: absolute;
+    top: 20px;
+    z-index: 1;
+    right: 5px;
+    color: black !important
+}
+
+form.res-sr-style-toggle {
+    top: 20px
+}
+
+form.toggle.res-sr-style-toggle {
+    background: transparent!important;
+    color: black!important
+}
+
+img.res-image-media.res-media-zoomable {
+    max-width: 732px !important
+}
+
+.res-icon {
+    font-family: Batch !important
+}
+
+.usertext-body.may-blank-within.md-container {
+    background: transparent !important
+}
+
+.res-searchHelper-searchPageTabs .search-page div.searchpane {
+    height: 100px !important
+}
+
+.res-searchHelper-searchPageTabs .search-page div.content {
+    margin-top: -115px
+}
+
+li.res-search-tab-options {
+    position: absolute;
+    right: 10px;
+    top: 47px
+}
