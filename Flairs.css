@@ -1282,10 +1282,21 @@ span.flair-chrisson:hover:after {
     margin-left: 70px!important
 }
 
-
-
-
 span.flair-zerohero:hover:after {
     margin-left: 75px
 }
 /* End Flair Hovering Tooltips */
+
+/* Enlarge user flair selector */
+.flairselector {
+    border-radius: 2px;
+    border: none;
+    box-shadow: 0 0 16px rgba(0, 0, 0, .12);
+    left: 41%!important;
+    margin-left: -125px;
+    padding: 16px!important;
+    position: fixed;
+    top: 20%!important;
+    width: 504px!important
+}
+/* End Flairs.css */
