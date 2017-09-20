@@ -276,4 +276,68 @@ span.linkflairlabel {
     background-position-y: -767px;
     background-repeat: no-repeat
 }
+
+
+
+.flairselector.drop-choices.active {
+    z-index: 9999;
+}
+
+.link.stickied .entry .tagline .userattrs a.moderator {
+    display: none !important;
+}
+
+.link .entry .tagline .userattrs a.moderator {
+    background-color: transparent !important
+}
+
+.stickied .tagline span.flair {
+    display: none;
+}
+
+div.flairselector div.flairremove a:nth-of-type(1) {
+    color: black !important;
+}
+
+.link {
+    left: -16px;
+    margin-right: -32px;
+    padding-left: 16px;
+    background-color: rgba(0, 0, 0, .04);
+    border: none;
+}
+
+.link.stickied .expando textarea {
+    color: black;
+}
+
+.comments-page .link.linkflair-podcast.stickied {
+    background-size: 100% 100%;
+    background-position-y: 0px
+}
+
+.link.linkflair-podcast.stickied {
+    background-color: #181818;
+    background-repeat: repeat;
+    background-position-y: -785px;
+}
+
+.link.linkflair-podcast.stickied .expando-button.hide-when-pinned.selftext {
+    display: none;
+}
+
+.stickied div.RES-keyNav-activeElement {
+    padding-left: 0px;
+    border-left: none;
+}
+
+@media (min-device-width: 2300px),
+(min-width: 2300px) {
+    .link.linkflair-podcast.stickied {
+        background-color: #181818;
+        background-repeat: repeat;
+        background-position-y: -785px;
+        background-size: 100%;
+    }
+}
 /* End LinkFlairs.css */
