@@ -1,0 +1,68 @@
+
+
+@media (max-device-width:640px),
+(max-width:640px) {
+    .content {
+        margin-top: 144px
+    }
+    .link,
+    .commentarea,
+    .stylesheet-customize-container .pretty-form,
+    .sitetable,
+    #images,
+    .organic-listing {
+        margin-right: 0px
+    }
+    .subscriber .morelink a:after {
+        display: none
+    }
+    .side {
+        -webkit-transition: all 0.5s ease-in-out;
+        transition: all 0.5s ease-in-out;
+        position: fixed;
+        padding-top: 0px;
+        z-index: 5000;
+        right: -350px;
+        margin: 0;
+        overflow-y: scroll;
+        width: 345px;
+        height: 100%
+    }
+    .side .usertext {
+        margin-top: 114px
+    }
+    .side .content:before {
+        display: none
+    }
+    .side:after {
+        transition: all 0.15s ease;
+        background-color: #FFF;
+        content: "≡";
+        border-radius: 1px;
+        box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.3);
+        position: fixed;
+        padding: 0px 12px;
+        display: block;
+        right: 0px;
+        color: #1F2225;
+        z-index: 98;
+        width: 36px;
+        font-size: 24px;
+        height: 36px;
+        line-height: 36px;
+        top: 24px
+    }
+    .side:hover {
+        right: 0px
+    }
+    .side:hover:after {
+        opacity: 0
+    }
+    .side {
+        background: white !important;
+        top: 25px
+    }
+    .side .spacer {
+        padding-top: 113px
+    }
+}
