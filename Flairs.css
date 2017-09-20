@@ -1,0 +1,1291 @@
+/* Begin Flairsheet Doc */
+
+
+.flair {
+    background: url(%%flairsheet%%) no-repeat -9999px;
+    border: 0;
+    padding: 0;
+    text-indent: -9999px;
+    cursor: help
+}
+
+.flair {
+    background-image: url(%%flairsheetupdate%%)
+}
+
+.flair {
+    background-color: clear
+}
+
+.flair-1up {
+    width: 21px;
+    height: 19px;
+    background-position: 0 0
+}
+
+.flair-7minutesdead {
+    width: 22px;
+    height: 18px;
+    background-position: -21px 0
+}
+
+.flair-aaronjackson {
+    width: 36px;
+    height: 14px;
+    background-position: -43px 0
+}
+
+.flair-aerochord {
+    width: 19px;
+    height: 16px;
+    background-position: -79px 0
+}
+
+.flair-agno3 {
+    width: 19px;
+    height: 18px;
+    background-position: -98px 0
+}
+
+.flair-alomasteele {
+    width: 55px;
+    height: 13px;
+    background-position: -117px 0
+}
+
+.flair-anevo {
+    width: 45px;
+    height: 11px;
+    background-position: -172px 0
+}
+
+.flair-annayvette {
+    width: 18px;
+    height: 19px;
+    background-position: -217px 0
+}
+
+.flair-arion {
+    width: 15px;
+    height: 19px;
+    background-position: -235px 0
+}
+
+.flair-aruna {
+    width: 47px;
+    height: 11px;
+    background-position: 0 -19px
+}
+
+.flair-astronaut {
+    width: 24px;
+    height: 18px;
+    background-position: -250px 0
+}
+
+.flair-au5 {
+    width: 20px;
+    height: 18px;
+    background-position: -47px -18px
+}
+
+.flair-augustusghost {
+    width: 52px;
+    height: 10px;
+    background-position: -67px -18px
+}
+
+.flair-azedia {
+    width: 21px;
+    height: 18px;
+    background-position: -119px -18px
+}
+
+.flair-barelyalive {
+    width: 29px;
+    height: 18px;
+    background-position: -140px -18px
+}
+
+.flair-beargrillz {
+    width: 32px;
+    height: 18px;
+    background-position: -169px -18px
+}
+
+.flair-bijou {
+    width: 30px;
+    height: 14px;
+    background-position: -250px -18px
+}
+
+.flair-braken {
+    width: 25px;
+    height: 18px;
+    background-position: 0 -32px
+}
+
+.flair-bustre {
+    width: 45px;
+    height: 10px;
+    background-position: -201px -19px
+}
+
+.flair-candyland {
+    width: 47px;
+    height: 16px;
+    background-position: -67px -29px
+}
+
+.flair-caseandpoint {
+    width: 31px;
+    height: 18px;
+    background-position: -201px -32px
+}
+
+.flair-cassandrakay {
+    width: 39px;
+    height: 19px;
+    background-position: -232px -32px
+}
+
+.flair-charlottehaining {
+    width: 12px;
+    height: 19px;
+    background-position: -280px 0
+}
+
+.flair-chrisramos {
+    width: 25px;
+    height: 18px;
+    background-position: 0 -51px
+}
+
+.flair-chrisson {
+    width: 65px;
+    height: 12px;
+    background-position: -25px -51px
+}
+
+.flair-colordrive {
+    width: 20px;
+    height: 18px;
+    background-position: -25px -32px
+}
+
+.flair-coma {
+    width: 39px;
+    height: 8px;
+    background-position: -90px -51px
+}
+
+.flair-concept {
+    width: 52px;
+    height: 9px;
+    background-position: -129px -51px
+}
+
+.flair-conro {
+    width: 37px;
+    height: 17px;
+    background-position: -181px -51px
+}
+
+.flair-cozizuehlsdorff {
+    width: 54px;
+    height: 6px;
+    background-position: -218px -51px
+}
+
+.flair-danykanadeau {
+    width: 57px;
+    height: 7px;
+    background-position: -218px -57px
+}
+
+.flair-darrenstyles {
+    width: 38px;
+    height: 19px;
+    background-position: -25px -64px
+}
+
+.flair-dayone {
+    width: 23px;
+    height: 18px;
+    background-position: -63px -64px
+}
+
+.flair-deoncustom {
+    width: 30px;
+    height: 18px;
+    background-position: -86px -64px
+}
+
+.flair-deutgen {
+    width: 38px;
+    height: 13px;
+    background-position: -116px -64px
+}
+
+.flair-didrick {
+    width: 23px;
+    height: 18px;
+    background-position: -154px -64px
+}
+
+.flair-diontimmer {
+    width: 44px;
+    height: 6px;
+    background-position: -218px -64px
+}
+
+.flair-direct {
+    width: 19px;
+    height: 18px;
+    background-position: -271px -32px
+}
+
+.flair-dirtyaudio {
+    width: 37px;
+    height: 19px;
+    background-position: -177px -70px
+}
+
+.flair-dirtyphonics {
+    width: 36px;
+    height: 15px;
+    background-position: -214px -70px
+}
+
+.flair-diskord {
+    width: 33px;
+    height: 13px;
+    background-position: -250px -70px
+}
+
+.flair-dotexe {
+    width: 36px;
+    height: 18px;
+    background-position: 0 -83px
+}
+
+.flair-draper {
+    width: 40px;
+    height: 10px;
+    background-position: -36px -83px
+}
+
+.flair-droeloe {
+    width: 57px;
+    height: 10px;
+    background-position: -76px -83px
+}
+
+.flair-droptek {
+    width: 18px;
+    height: 18px;
+    background-position: -133px -83px
+}
+
+.flair-duumu {
+    width: 20px;
+    height: 18px;
+    background-position: -151px -83px
+}
+
+.flair-dzekoandtorres {
+    width: 30px;
+    height: 12px;
+    background-position: -250px -83px
+}
+
+.flair-eden {
+    width: 21px;
+    height: 18px;
+    background-position: -36px -95px
+}
+
+.flair-elizaveta {
+    width: 51px;
+    height: 9px;
+    background-position: -57px -95px
+}
+
+.flair-emel {
+    width: 30px;
+    height: 8px;
+    background-position: -171px -95px
+}
+
+.flair-eminence {
+    width: 21px;
+    height: 18px;
+    background-position: -108px -95px
+}
+
+.flair-ephixa {
+    width: 21px;
+    height: 19px;
+    background-position: -201px -95px
+}
+
+.flair-existstrategy {
+    width: 36px;
+    height: 10px;
+    background-position: -222px -95px
+}
+
+.flair-falconfunk {
+    width: 21px;
+    height: 18px;
+    background-position: -258px -95px
+}
+
+.flair-faustix {
+    width: 37px;
+    height: 14px;
+    background-position: 0 -113px
+}
+
+.flair-favright {
+    width: 44px;
+    height: 8px;
+    background-position: -57px -105px
+}
+
+.flair-feint {
+    width: 14px;
+    height: 18px;
+    background-position: -275px -50px
+}
+
+.flair-fool {
+    width: 23px;
+    height: 19px;
+    background-position: -37px -113px
+}
+
+.flair-fractal {
+    width: 15px;
+    height: 19px;
+    background-position: -60px -113px
+}
+
+.flair-gammer {
+    width: 32px;
+    height: 19px;
+    background-position: -75px -113px
+}
+
+.flair-getter {
+    width: 28px;
+    height: 9px;
+    background-position: -107px -113px
+}
+
+.flair-glacier {
+    width: 45px;
+    height: 19px;
+    background-position: -135px -105px
+}
+
+.flair-goingquantum {
+    width: 38px;
+    height: 12px;
+    background-position: -222px -113px
+}
+
+.flair-goldMember {
+    width: 51px;
+    height: 22px;
+    background-position: -107px -125px
+}
+
+.flair-grabbitz {
+    width: 44px;
+    height: 15px;
+    background-position: -158px -125px
+}
+
+.flair-grant {
+    width: 40px;
+    height: 7px;
+    background-position: -202px -125px
+}
+
+.flair-haywyre {
+    width: 43px;
+    height: 6px;
+    background-position: -242px -125px
+}
+
+.flair-hellberg {
+    width: 45px;
+    height: 13px;
+    background-position: -242px -131px
+}
+
+.flair-highmaintenance {
+    width: 32px;
+    height: 18px;
+    background-position: 0 -131px
+}
+
+.flair-hollydrummond {
+    width: 60px;
+    height: 12px;
+    background-position: -32px -144px
+}
+
+.flair-hotdate {
+    width: 31px;
+    height: 19px;
+    background-position: -158px -144px
+}
+
+.flair-hush {
+    width: 39px;
+    height: 16px;
+    background-position: -189px -144px
+}
+
+.flair-hyperpotions {
+    width: 37px;
+    height: 18px;
+    background-position: -228px -144px
+}
+
+.flair-insan3lik3 {
+    width: 20px;
+    height: 19px;
+    background-position: -265px -144px
+}
+
+.flair-intercom {
+    width: 13px;
+    height: 19px;
+    background-position: -279px -95px
+}
+
+.flair-isabelhiguero {
+    width: 21px;
+    height: 19px;
+    background-position: 0 -163px
+}
+
+.flair-iyffe {
+    width: 36px;
+    height: 18px;
+    background-position: -21px -162px
+}
+
+.flair-jauz {
+    width: 23px;
+    height: 18px;
+    background-position: -57px -163px
+}
+
+.flair-jessimason {
+    width: 52px;
+    height: 7px;
+    background-position: -80px -163px
+}
+
+.flair-jonnyrose {
+    width: 47px;
+    height: 7px;
+    background-position: -132px -163px
+}
+
+.flair-karmafields {
+    width: 19px;
+    height: 18px;
+    background-position: -179px -163px
+}
+
+.flair-karra {
+    width: 15px;
+    height: 18px;
+    background-position: -198px -163px
+}
+
+.flair-kasbo {
+    width: 21px;
+    height: 18px;
+    background-position: -213px -163px
+}
+
+.flair-kayzo {
+    width: 44px;
+    height: 18px;
+    background-position: -234px -163px
+}
+
+.flair-koven {
+    width: 47px;
+    height: 9px;
+    background-position: -21px -181px
+}
+
+.flair-krewella {
+    width: 44px;
+    height: 15px;
+    background-position: -68px -181px
+}
+
+.flair-kuuro {
+    width: 50px;
+    height: 15px;
+    background-position: -112px -181px
+}
+
+.flair-labisch {
+    width: 44px;
+    height: 8px;
+    background-position: -162px -181px
+}
+
+.flair-laszlo {
+    width: 14px;
+    height: 18px;
+    background-position: -278px -163px
+}
+
+.flair-laurabrehm {
+    width: 44px;
+    height: 18px;
+    background-position: -206px -181px
+}
+
+.flair-letsbefriends {
+    width: 19px;
+    height: 18px;
+    background-position: -250px -181px
+}
+
+.flair-loosid {
+    width: 23px;
+    height: 19px;
+    background-position: -269px -181px
+}
+
+.flair-lvther {
+    width: 24px;
+    height: 19px;
+    background-position: 0 -200px
+}
+
+.flair-matduke {
+    width: 31px;
+    height: 17px;
+    background-position: -24px -200px
+}
+
+.flair-mattvan {
+    width: 49px;
+    height: 10px;
+    background-position: -55px -199px
+}
+
+.flair-mcat {
+    width: 16px;
+    height: 18px;
+    background-position: -104px -200px
+}
+
+.flair-melano {
+    width: 23px;
+    height: 17px;
+    background-position: -120px -200px
+}
+
+.flair-meronryan {
+    width: 50px;
+    height: 6px;
+    background-position: -143px -199px
+}
+
+.flair-mitchellclaxton {
+    width: 45px;
+    height: 14px;
+    background-position: -193px -199px
+}
+
+.flair-mitis {
+    width: 37px;
+    height: 10px;
+    background-position: -238px -200px
+}
+
+.flair-miu {
+    width: 26px;
+    height: 6px;
+    background-position: -180px -114px
+}
+
+.flair-miyoki {
+    width: 22px;
+    height: 18px;
+    background-position: -55px -210px
+}
+
+.flair-mrfijiwiji {
+    width: 19px;
+    height: 18px;
+    background-position: -77px -210px
+}
+
+.flair-mrvlz {
+    width: 34px;
+    height: 7px;
+    background-position: -143px -210px
+}
+
+.flair-muzzy {
+    width: 16px;
+    height: 19px;
+    background-position: -275px -200px
+}
+
+.flair-mylk {
+    width: 47px;
+    height: 19px;
+    background-position: 0 -219px
+}
+
+.flair-myrne {
+    width: 55px;
+    height: 12px;
+    background-position: -177px -213px
+}
+
+.flair-nanobii {
+    width: 45px;
+    height: 14px;
+    background-position: -96px -219px
+}
+
+.flair-neilio {
+    width: 45px;
+    height: 12px;
+    background-position: -232px -219px
+}
+
+.flair-nigelgood {
+    width: 31px;
+    height: 19px;
+    background-position: -47px -231px
+}
+
+.flair-nitrofun {
+    width: 38px;
+    height: 18px;
+    background-position: -141px -231px
+}
+
+.flair-noisestorm {
+    width: 13px;
+    height: 18px;
+    background-position: -92px -144px
+}
+
+.flair-notaker {
+    width: 46px;
+    height: 5px;
+    background-position: -179px -231px
+}
+
+.flair-obsidia {
+    width: 44px;
+    height: 7px;
+    background-position: -225px -231px
+}
+
+.flair-openwater {
+    width: 18px;
+    height: 19px;
+    background-position: -78px -231px
+}
+
+.flair-orbiter {
+    width: 22px;
+    height: 19px;
+    background-position: -269px -231px
+}
+
+.flair-parkavenue {
+    width: 23px;
+    height: 19px;
+    background-position: 0 -250px
+}
+
+.flair-pegboardnerds {
+    width: 24px;
+    height: 18px;
+    background-position: -23px -238px
+}
+
+.flair-piercefulton {
+    width: 30px;
+    height: 19px;
+    background-position: -96px -238px
+}
+
+.flair-pixl {
+    width: 22px;
+    height: 17px;
+    background-position: -47px -250px
+}
+
+.flair-popeska {
+    width: 52px;
+    height: 12px;
+    background-position: -179px -238px
+}
+
+.flair-poweruser {
+    width: 36px;
+    height: 19px;
+    background-position: -231px -238px
+}
+
+.flair-priorityone {
+    width: 30px;
+    height: 11px;
+    background-position: -260px -114px
+}
+
+.flair-project46 {
+    width: 44px;
+    height: 7px;
+    background-position: -69px -257px
+}
+
+.flair-protostar {
+    width: 15px;
+    height: 18px;
+    background-position: -126px -250px
+}
+
+.flair-puppet {
+    width: 48px;
+    height: 18px;
+    background-position: -141px -257px
+}
+
+.flair-pylot {
+    width: 45px;
+    height: 10px;
+    background-position: -189px -257px
+}
+
+.flair-qaila {
+    width: 55px;
+    height: 11px;
+    background-position: -234px -257px
+}
+
+.flair-quietdisorder {
+    width: 30px;
+    height: 13px;
+    background-position: -23px -268px
+}
+
+.flair-ramesesb {
+    width: 29px;
+    height: 16px;
+    background-position: -53px -268px
+}
+
+.flair-rayceejones {
+    width: 26px;
+    height: 18px;
+    background-position: -82px -268px
+}
+
+.flair-razihel {
+    width: 42px;
+    height: 7px;
+    background-position: -189px -268px
+}
+
+.flair-reach {
+    width: 36px;
+    height: 14px;
+    background-position: -231px -268px
+}
+
+.flair-redmoon {
+    width: 22px;
+    height: 18px;
+    background-position: -108px -268px
+}
+
+.flair-rezonate {
+    width: 44px;
+    height: 11px;
+    background-position: -292px 0
+}
+
+.flair-ricci {
+    width: 40px;
+    height: 14px;
+    background-position: -292px -11px
+}
+
+.flair-richardcaddock {
+    width: 33px;
+    height: 15px;
+    background-position: -290px -25px
+}
+
+.flair-richedwards {
+    width: 25px;
+    height: 18px;
+    background-position: -290px -40px
+}
+
+.flair-riot {
+    width: 30px;
+    height: 14px;
+    background-position: -289px -58px
+}
+
+.flair-rogue {
+    width: 18px;
+    height: 18px;
+    background-position: -315px -40px
+}
+
+.flair-roniit {
+    width: 31px;
+    height: 17px;
+    background-position: -283px -72px
+}
+
+.flair-rootkit {
+    width: 47px;
+    height: 9px;
+    background-position: -114px -40px
+}
+
+.flair-rundfunk {
+    width: 36px;
+    height: 12px;
+    background-position: -292px -89px
+}
+
+.flair-sanholo {
+    width: 24px;
+    height: 18px;
+    background-position: -292px -101px
+}
+
+.flair-savoy {
+    width: 47px;
+    height: 11px;
+    background-position: -287px -125px
+}
+
+.flair-scndl {
+    width: 40px;
+    height: 17px;
+    background-position: -287px -136px
+}
+
+.flair-silverback {
+    width: 40px;
+    height: 9px;
+    background-position: -161px -40px
+}
+
+.flair-sirensceol {
+    width: 42px;
+    height: 7px;
+    background-position: -172px -11px
+}
+
+.flair-skifonix {
+    width: 23px;
+    height: 18px;
+    background-position: -292px -153px
+}
+
+.flair-skyelle {
+    width: 27px;
+    height: 17px;
+    background-position: -292px -171px
+}
+
+.flair-slipsandslurs {
+    width: 33px;
+    height: 19px;
+    background-position: -292px -188px
+}
+
+.flair-slushii {
+    width: 39px;
+    height: 11px;
+    background-position: -291px -207px
+}
+
+.flair-snavs {
+    width: 25px;
+    height: 12px;
+    background-position: 0 -101px
+}
+
+.flair-soulero {
+    width: 11px;
+    height: 18px;
+    background-position: -319px -58px
+}
+
+.flair-soundremedy {
+    width: 36px;
+    height: 16px;
+    background-position: -291px -218px
+}
+
+.flair-soupandreas {
+    width: 20px;
+    height: 18px;
+    background-position: -316px -101px
+}
+
+.flair-splitbreed {
+    width: 20px;
+    height: 18px;
+    background-position: -315px -153px
+}
+
+.flair-stephenwalking {
+    width: 35px;
+    height: 19px;
+    background-position: -291px -234px
+}
+
+.flair-stereotronique {
+    width: 44px;
+    height: 6px;
+    background-position: -171px -89px
+}
+
+.flair-stonebank {
+    width: 45px;
+    height: 13px;
+    background-position: -289px -253px
+}
+
+.flair-subtact {
+    width: 37px;
+    height: 10px;
+    background-position: -105px -153px
+}
+
+.flair-summerwasfun {
+    width: 22px;
+    height: 19px;
+    background-position: -289px -266px
+}
+
+.flair-tashabaxter {
+    width: 21px;
+    height: 19px;
+    background-position: -311px -266px
+}
+
+.flair-televisor {
+    width: 20px;
+    height: 18px;
+    background-position: 0 -285px
+}
+
+.flair-teqq {
+    width: 20px;
+    height: 18px;
+    background-position: -20px -285px
+}
+
+.flair-throttle {
+    width: 45px;
+    height: 16px;
+    background-position: -130px -285px
+}
+
+.flair-timmytrumpet {
+    width: 36px;
+    height: 18px;
+    background-position: -40px -285px
+}
+
+.flair-tobygreen {
+    width: 27px;
+    height: 15px;
+    background-position: -175px -285px
+}
+
+.flair-tokyomachine {
+    width: 36px;
+    height: 19px;
+    background-position: -336px 0
+}
+
+.flair-topi {
+    width: 21px;
+    height: 19px;
+    background-position: -332px -19px
+}
+
+.flair-tristam {
+    width: 21px;
+    height: 19px;
+    background-position: -333px -38px
+}
+
+.flair-trivecta {
+    width: 21px;
+    height: 18px;
+    background-position: -333px -57px
+}
+
+.flair-tuttutchild {
+    width: 39px;
+    height: 13px;
+    background-position: -330px -75px
+}
+
+.flair-tvds {
+    width: 45px;
+    height: 11px;
+    background-position: -327px -136px
+}
+
+.flair-twothirds {
+    width: 30px;
+    height: 13px;
+    background-position: -328px -88px
+}
+
+.flair-tylormaurer {
+    width: 22px;
+    height: 19px;
+    background-position: -336px -101px
+}
+
+.flair-unlikepluto {
+    width: 24px;
+    height: 17px;
+    background-position: -335px -147px
+}
+
+.flair-varien {
+    width: 42px;
+    height: 9px;
+    background-position: -80px -171px
+}
+
+.flair-veela {
+    width: 40px;
+    height: 7px;
+    background-position: -32px -136px
+}
+
+.flair-vicetone {
+    width: 57px;
+    height: 10px;
+    background-position: -122px -171px
+}
+
+.flair-virtualriot {
+    width: 31px;
+    height: 19px;
+    background-position: -335px -164px
+}
+
+.flair-volant {
+    width: 17px;
+    height: 18px;
+    background-position: -353px -19px
+}
+
+.flair-wrld {
+    width: 45px;
+    height: 15px;
+    background-position: -325px -183px
+}
+
+.flair-zerohero {
+    width: 70px;
+    height: 9px;
+    background-position: -202px -285px
+}
+/* End Flairsheet Doc */
+
+/* Begin Flair Hovering Tooltips */
+span.flair:hover:after {
+    visibility: visible;
+    background-color: rgba(29, 111, 169, 0.88);
+    ;
+    color: #FFF;
+    margin-left: 27px;
+}
+
+span.flair:after {
+    content: attr(title);
+    text-indent: 0px
+}
+
+span.flair:after {
+    display: block;
+    position: absolute;
+    z-index: 1000;
+    margin-top: -18px;
+    padding: 5px;
+    background-color: rgba(29, 111, 169, 0);
+    border: none;
+    border-radius: 2px;
+    color: rgba(255, 255, 255, 0);
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 13px;
+    transition: all .25s ease;
+    pointer-events: none;
+}
+
+span.flair-beargrillz:hover:after,
+span.flair-barelyalive:hover:after,
+span.flair-bijou:hover:after,
+span.flair-caseandpoint:hover:after,
+span.flair-deoncustom:hover:after,
+span.flair-dzekoandtorres:hover:after,
+span.flair-emel:hover:after,
+span.flair-matduke:hover:after,
+span.flair-melano:hover:after,
+span.flair-mitis:hover:after,
+span.flair-priorityone:hover:after,
+span.flair-quietdisorder:hover:after,
+span.flair-ramesesb:hover:after,
+span.flair-rayceejones:hover:after,
+span.flair-reach:hover:after,
+span.flair-richardcaddock:hover:after,
+span.flair-riot:hover:after,
+span.flair-roniit:hover:after,
+span.flair-slipsandslurs:hover:after,
+span.flair-tobygreen:hover:after,
+span.flair-virtualriot:hover:after {
+    margin-left: 35px!important
+}
+
+
+span.flair-aaronjackson:hover:after,
+span.flair-cassandrakay:hover:after,
+span.flair-coma:hover:after,
+span.flair-conro:hover:after,
+span.flair-darrenstyles:hover:after,
+span.flair-deutgen:hover:after,
+span.flair-dirtyaudio:hover:after,
+span.flair-dirtyphonics:hover:after,
+span.flair-diskord:hover:after,
+span.flair-dotexe:hover:after,
+span.flair-existstrategy:hover:after,
+span.flair-faustix:hover:after,
+span.flair-gammer:hover:after,
+span.flair-getter:hover:after,
+span.flair-mrvlz:hover:after,
+span.flair-nitrofun:hover:after,
+span.flair-scndl:hover:after,
+span.flair-silverback:hover:after,
+span.flair-sirensceol:hover:after,
+span.flair-slushii:hover:after,
+span.flair-varien:hover:after,
+span.flair-veela:hover:after {
+    margin-left: 45px!important
+}
+
+span.flair-anevo:hover:after,
+span.flair-aruna:hover:after,
+span.flair-bustre:hover:after,
+span.flair-candyland:hover:after,
+span.flair-diontimmer:hover:after,
+span.flair-draper:hover:after,
+span.flair-favright:hover:after,
+span.flair-nanobii:hover:after,
+span.flair-neilio:hover:after,
+span.flair-notaker:hover:after,
+span.flair-obsidia:hover:after,
+span.flair-popeska:hover:after,
+span.flair-razihel:hover:after,
+span.flair-rezonate:hover:after,
+span.flair-ricci:hover:after,
+span.flair-stereotronique:hover:after,
+span.flair-stonebank:hover:after,
+span.flair-throttle:hover:after,
+span.flair-tvds:hover:after,
+span.flair-wrld:hover:after {
+    margin-left: 50px!important
+}
+
+span.flair-augustusghost:hover:after,
+span.flair-concept:hover:after,
+span.flair-glacier:hover:after,
+span.flair-goingquantum:hover:after,
+span.flair-grabbitz:hover:after,
+span.flair-grant:hover:after,
+span.flair-haywyre:hover:after,
+span.flair-hellberg:hover:after,
+span.flair-jessimason:hover:after,
+span.flair-jonnyrose:hover:after,
+span.flair-kayzo:hover:after,
+span.flair-koven:hover:after,
+span.flair-krewella:hover:after,
+span.flair-kuuro:hover:after,
+span.flair-labisch:hover:after,
+span.flair-laurabrehm:hover:after,
+span.flair-meronryan:hover:after,
+span.flair-mitchellclaxton:hover:after,
+span.flair-puppet:hover:after,
+span.flair-pylot:hover:after,
+span.flair-rootkit:hover:after,
+span.flair-savoy:hover:after {
+    margin-left: 55px!important
+}
+span.flair-alomasteele:hover:after,
+span.flair-cozizuehlsdorff:hover:after,
+span.flair-elizaveta:hover:after,
+span.flair-mattvan:hover:after,
+span.flair-qaila:hover:after,
+span.flair-vicetone:hover:after {
+    margin-left: 60px!important
+}
+span.flair-danykanadeau:hover:after,
+span.flair-droeloe:hover:after,
+span.flair-hollydrummond:hover:after {
+    margin-left: 65px!important
+}
+span.flair-highmaintenance:hover:after,
+span.flair-hotdate:hover:after,
+span.flair-hush:hover:after,
+span.flair-hyperpotions:hover:after,
+span.flair-iyffe:hover:after,
+span.flair-nigelgood:hover:after,
+span.flair-rundfunk:hover:after,
+span.flair-soundremedy:hover:after,
+span.flair-subtact:hover:after,
+span.flair-stephenwalking:hover:after,
+span.flair-tokyomachine:hover:after,
+span.flair-tuttutchild:hover:after {
+    margin-left: 40px!important
+}
+span.flair-chrisson:hover:after {
+    margin-left: 70px!important
+}
+
+
+
+
+span.flair-zerohero:hover:after {
+    margin-left: 75px
+}
+/* End Flair Hovering Tooltips */
