@@ -1,154 +1,148 @@
-/* Change artist names to gold */
-a.author[href$="/HyperPotions"],
-a.author[href$="/Subtact"],
-a.author[href$="/RichardCaddock"],
-a.author[href$="/droptekofficial"],
-a.author[href$="/drapermusic"],
-a.author[href$="/nick-grabbitz"],
-a.author[href$="/Feint_UK"],
-a.author[href$="/mitchellclaxton"],
-a.author[href$="/ephixa"],
-a.author[href$="/hollydrummond"],
-a.author[href$="/StephenWalking"],
+/* Begin Artists.CSS */
+a.author[href$="/7MDead"],
+a.author[href$="/7minutesdead"],
+a.author[href$="/23e"],
+a.author[href$="/aero_chord"],
+a.author[href$="/Ali_Fidel"],
+a.author[href$="/annayvette"],
 a.author[href$="/Au5"],
-a.author[href$="/nigel_good"],
+a.author[href$="/BrakenMusic"],
+a.author[href$="/Bustre"],
+a.author[href$="/callme_grant"],
+a.author[href$="/caseandpointdjs"],
+a.author[href$="/conformistpolice"],
+a.author[href$="/connellmccarthy"],
+a.author[href$="/conro_music"],
+a.author[href$="/Conro_Music"],
+a.author[href$="/dark_cat"],
+a.author[href$="/didrickmusic"],
+a.author[href$="/DionTimmer"],
+a.author[href$="/directmusic94"],
+a.author[href$="/djdirtyaudio"],
+a.author[href$="/djproject46"],
+a.author[href$="/drapermusic"],
+a.author[href$="/droeloemusic"],
+a.author[href$="/droptekofficial"],
+a.author[href$="/duumu"],
+a.author[href$="/Echos_Official"],
+a.author[href$="/EminenceUnited"],
+a.author[href$="/ephixa"],
+a.author[href$="/EvanDuffyComposer"],
+a.author[href$="/Feint_UK"],
+a.author[href$="/GarethEmery_Official"],
+a.author[href$="/GlacierOfficial"],
+a.author[href$="/goingquantum"],
+a.author[href$="/grantbowtie"],
+a.author[href$="/Haywyremusic"],
+a.author[href$="/HellbergMusic"],
+a.author[href$="/hollydrummond"],
+a.author[href$="/HotDateOfficial"],
+a.author[href$="/HyperPotions"],
+a.author[href$="/iammindsight"],
+a.author[href$="/imnanobii"],
+a.author[href$="/Insan3lik3"],
+a.author[href$="/INTERCOM-Music"],
+a.author[href$="/jb55"],
+a.author[href$="/juicetra"],
+a.author[href$="/kovenuk"],
+a.author[href$="/Labisch"],
+a.author[href$="/LaszloEDM"],
+a.author[href$="/mattvanmusic"],
+a.author[href$="/MattVice"],
+a.author[href$="/MihkaMusic"],
+a.author[href$="/mitchellclaxton"],
+a.author[href$="/miyokiofficial"],
+a.author[href$="/MonstercatMedia"],
 a.author[href$="/MonstercatShop"],
 a.author[href$="/monstercatsupport"],
-a.author[href$="/SachaVibes"],
-a.author[href$="/Ali_Fidel"],
-a.author[href$="/MattVice"],
-a.author[href$="/soupandreas"],
-a.author[href$="/djdirtyaudio"],
-a.author[href$="/Conro_Music"],
-a.author[href$="/23e"],
-a.author[href$="/7minutesdead"],
-a.author[href$="/BrakenMusic"],
-a.author[href$="/caseandpointdjs"],
-a.author[href$="/conro_music"],
-a.author[href$="/directmusic94"],
-a.author[href$="/Haywyremusic"],
-a.author[href$="/HotDateOfficial"],
-a.author[href$="/Insan3lik3"],
 a.author[href$="/mrfijiwiji"],
-a.author[href$="/imnanobii"],
+a.author[href$="/nick-grabbitz"],
+a.author[href$="/nigel_good"],
 a.author[href$="/Nitro_Fun"],
+a.author[href$="/noisestorm"],
+a.author[href$="/notakermusic"],
 a.author[href$="/PegboardNerds"],
 a.author[href$="/Pegboard_Nerds"],
-a.author[href$="/TheOfficialProtostar"],
-a.author[href$="/jb55"],
+a.author[href$="/Petirep"],
+a.author[href$="/pixlmusic"],
+a.author[href$="/podcastmod"],
+a.author[href$="/Puppetttt"],
 a.author[href$="/RamesesB"],
+a.author[href$="/RealRichEdwards"],
+a.author[href$="/RichardCaddock"],
+a.author[href$="/RRRIOTTT"],
+a.author[href$="/SachaVibes"],
+a.author[href$="/SAVOYband"],
+a.author[href$="/SevenMinutesDead"],
+a.author[href$="/skyellemusic"],
+a.author[href$="/slipsandslurs"],
+a.author[href$="/slushii_music"],
+a.author[href$="/Slyleaf"],
 a.author[href$="/Soulero"],
+a.author[href$="/soupandreas"],
+a.author[href$="/StephenWalking"],
+a.author[href$="/Subtact"],
+a.author[href$="/tekn604"],
 a.author[href$="/TelevisorMusic"],
+a.author[href$="/TeqqOfficial"],
+a.author[href$="/TheOfficialProtostar"],
+a.author[href$="/TheRealTristam"],
+a.author[href$="/theWRLD"],
 a.author[href$="/throttlemusic"],
 a.author[href$="/throttlerob"],
-a.author[href$="/EvanDuffyComposer"],
-a.author[href$="/Petirep"],
-a.author[href$="/TheRealTristam"],
+a.author[href$="/trivecta_sam"],
+a.author[href$="/TutTutChildmusic"],
 a.author[href$="/varienscissorhands"],
 a.author[href$="/virtual_riot"],
-a.author[href$="/connellmccarthy"],
-a.author[href$="/noisestorm"],
-a.author[href$="/trivecta_sam"],
-a.author[href$="/Bustre"],
-a.author[href$="/HellbergMusic"],
-a.author[href$="/pixlmusic"],
-a.author[href$="/theWRLD"],
-a.author[href$="/MonstercatMedia"],
-a.author[href$="/7MDead"],
-a.author[href$="/grantbowtie"],
-a.author[href$="/aero_chord"],
-a.author[href$="/conformistpolice"],
-a.author[href$="/LaszloEDM"],
-a.author[href$="/TeqqOfficial"],
-a.author[href$="/Puppetttt"],
-a.author[href$="/EminenceUnited"],
-a.author[href$="/RealRichEdwards"],
-a.author[href$="/Labisch"],
 a.author[href$="/volantmusic"],
-a.author[href$="/podcastmod"],
-a.author[href$="/djproject46"],
-a.author[href$="/slipsandslurs"],
-a.author[href$="/goingquantum"],
-a.author[href$="/SAVOYband"],
-a.author[href$="/RRRIOTTT"],
-a.author[href$="/tekn604"],
-a.author[href$="/INTERCOM-Music"],
-a.author[href$="/iammindsight"],
-a.author[href$="/yukstar"],
-a.author[href$="/juicetra"],
-a.author[href$="/GlacierOfficial"],
-a.author[href$="/mattvanmusic"],
-a.author[href$="/Slyleaf"],
-a.author[href$="/duumu"],
-a.author[href$="/GarethEmery_Official"],
-a.author[href$="/SevenMinutesDead"],
-a.author[href$="/Echos_Official"],
-a.author[href$="/kovenuk"],
-a.author[href$="/callme_grant"],
-a.author[href$="/dark_cat"],
-a.author[href$="/droeloemusic"],
-a.author[href$="/DionTimmer"],
-a.author[href$="/miyokiofficial"],
-a.author[href$="/didrickmusic"],
-a.author[href$="/skyellemusic"],
-a.author[href$="/annayvette"],
-a.author[href$="/slushii_music"],
-a.author[href$="/MihkaMusic"],
-a.author[href$="/notakermusic"],
-a.author[href$="/TutTutChildmusic"]
-{
-color: #b79c1f
+a.author[href$="/yukstar"] {
+    color: #b79c1f
 }
 
-/**
- * Hide Timmy Trumpet, MCAT Media, and Podcast Mod's accounts
- */
 a.author[href$="/ImTimmyTrumpet"],
 a.author[href$="/MonstercatMedia"],
-a.author[href$="/podcastmod"],
-a.author[href$="/PhantomDarknessDashy"]{
-    visibility: hidden;
+a.author[href$="/PhantomDarknessDashy"],
+a.author[href$="/podcastmod"] {
     font-size: 0;
-    padding: 0 2px 0 0!important
+    padding: 0 2px 0 0!important;
+    visibility: hidden
 }
-/**
- * Allow :after content to be seen
- */
+
 a.author[href$="/ImTimmyTrumpet"]::after,
 a.author[href$="/MonstercatMedia"]::after,
-a.author[href$="/podcastmod"]::after,
-a.author[href$="/PhantomDarknessDashy"]::after{
-    visibility: visible;
-    font-size: .75rem;
-    color: inherit;
-    background: inherit
-}
-
-/**
- * Change Account Usernames shown
- */
-a.author[href$="/MonstercatMedia"]::after {
-    content: "Monstercat"
-}
-
+a.author[href$="/PhantomDarknessDashy"]::after,
 a.author[href$="/podcastmod"]::after {
-    content: "Bad Kitty"
+    background: inherit;
+    color: inherit;
+    font-size: .75rem;
+    visibility: visible
 }
 
 a.author[href$="/ImTimmyTrumpet"]::after {
     content: "ImNotTimmyTrumpet"
 }
 
+a.author[href$="/MonstercatMedia"]::after {
+    content: "Monstercat"
+}
+
 a.author[href$="/PhantomDarknessDashy"]::after {
     content: "Phantom"
 }
 
+a.author[href$="/podcastmod"]::after {
+    content: "Bad Kitty"
+}
+
 a.author[href$="/3vans"]::before,
-a.author[href$="/Troutz"]::before,
-a.author[href$="/EternalHipster"]::before {
+a.author[href$="/EternalHipster"]::before,
+a.author[href$="/Troutz"]::before {
     content: "[Mod Alumnus] "
 }
 
 a.author[href$="/Numiiigoesrawrz"]::before {
     content: "[Mod Alumna]"
 }
+
+
+/* End of Artists.css */
