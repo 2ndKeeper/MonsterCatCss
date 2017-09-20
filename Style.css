@@ -1,0 +1,115 @@
+* {
+    font-family: Roboto, "San Francisco Display", "Helvetica Neue", Arial, Verdana!important
+}
+
+/**
+ * Theme Color
+ */
+.content .infobar,
+.drop-choices a.choice:hover,
+.morelink,
+.side .titlebox .md h3 a,
+.submit-page #newlink.submit.content ul.tabmenu.formtab,
+.submit_text.enabled.roundfield,
+.titlebox .md h3 a,
+body .btn,
+body button,
+.combined-search-page .search-result .search-comments,
+.combined-search-page .search-result .search-result-header .search-title,
+.combined-search-page .search-result a,
+.combined-search-page .search-result a>mark,
+.comment .author:hover,
+.flairselector h2,
+.linefield .title,
+.link .entry .buttons li a.comments,
+.link .entry .buttons li a.flairselectbtn,
+.link .entry .buttons li a:hover,
+.link .entry .tagline a:hover,
+.md a,
+.side .titlebox .md h4 a,
+.side:after,
+.sidebox.create .morelink a,
+.tagline .submitter,
+.thing .title,
+.thing .title.click,
+.thing .title.loggedin,
+.thing .title.loggedin.click,
+.titlebox .tagline a.flairselectbtn,
+.usertext .bottom-area a.reddiquette,
+.wiki-page .pageactions .wikiaction-current,
+.wiki-page .wiki-page-content .md.wiki h4,
+a,
+body .content .sitetable .link .title a:hover,
+.side .titlebox h1.redditname:before
+{
+    /* Theme Color */
+    background-color: #1d6fa9
+}
+
+/* Should contrast with theme color
+.side .titlebox h1.redditname a,
+.titlebox span.subscribers {
+    color: #fff
+}
+
+/* Button hover colors */
+.btn:hover,
+.morelink:hover,
+.side .titlebox .md h3 a:hover,
+body button:hover {
+    background-color: #0d5487
+}
+/* Button click colors */
+.morelink:active,
+.side .titlebox .md h3 a:active,
+.btn:active,
+body button:active {
+    background-color: #0a79cc
+}
+button.btn,
+.side .titlebox .md h3 a {
+    text-align: center !important
+}
+
+.arrow.down:after {
+    content: "For content that does not contribute to any discussion."
+}
+/* Hide Spoilers */
+
+a[href="/s"],
+a[href="#s"] {
+    font-size: 0;
+    visibility: hidden;
+    cursor: default;
+    display: inline-block
+}
+
+a[href="/s"]::after,
+a[href="#s"]::after {
+    content: attr(title);
+    background: #000;
+    color: #000;
+    font-size: small;
+    visibility: visible
+}
+
+a[href="/s"]:active::after,
+a[href="/s"]:hover::after,
+a[href="#s"]:active::after,
+a[href="#s"]:hover::after {
+    color: #000;
+    background: 0 0;
+    text-decoration: none;
+    font-size: small
+}
+
+/* Sidebar image link overlay */
+.side .md blockquote h6 a {
+    position: absolute;
+    top: 100px;
+    right: 16px;
+    width: 320px;
+    height: 192px;
+    z-index: 9999;
+}
+
