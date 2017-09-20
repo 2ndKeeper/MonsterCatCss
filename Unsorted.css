@@ -1,0 +1,287 @@
+
+div.titlebox span.number:after {
+    content: " HARDCORE MEMBERS"
+}
+
+.titlebox .users-online .number:after {
+    content: " powerusers online"
+}
+
+.sidecontentbox a.helplink {
+    text-transform: uppercase;
+    margin-right: 3.2px;
+    margin-bottom: 15px;
+    width: 98%;
+    background-color: #1d6fa9;
+    border: none;
+    border-radius: 2px;
+    color: #fff!important;
+    text-align: center;
+    font-weight: 700;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    line-height: 30px;
+    transition: .25s ease
+}
+
+.sidecontentbox a.helplink:hover {
+    background-color: #0d5487;
+    text-decoration: none
+}
+
+.sidecontentbox a.helplink:active {
+    background-color: #0a79cc
+}
+
+div#srLeftContainer a {
+    color: rgba(0, 0, 0, 0.65) !important
+}
+
+#header .tabmenu li.selected a {
+    font-weight: bold
+}
+
+#header .tabmenu:before {
+    background-color: rgba(0, 0, 0, 0.16)
+}
+
+span.linkflairlabel {
+    background-color: white !important
+}
+
+.thumbnail.spoiler {
+    height: 57px
+}
+
+.footer-parent {
+    background: none;
+    height: 100px !important;
+    padding-top: 42px
+}
+
+.sidecontentbox .content .gadget .reddit-link .linkflairlabel {
+    display: none
+}
+
+.create div.morelink {
+    display: none
+}
+
+#search #searchexpando {
+    line-height: 0px !important
+}
+
+.link.last-clicked {
+    background-color: none
+}
+
+.thing.link.stickied a.title,
+.thing.link.stickied a,
+.thing.link.stickied .entry li .comments {
+    color: #fff !important
+}
+
+.stickied.comment .tagline .stickied-tagline,
+.stickied.comment>.entry a,
+.thing.link.stickied .entry li .comments,
+.thing.link.stickied a.title,
+.thing.link.stickied li a {
+    color: #fff !important
+}
+
+.search-page #header-bottom-left a {
+    display: inline-block !important;
+    margin-top: 0px !important
+}
+
+.search-page #header-bottom-left .pagename a {
+    margin-top: 42px !important
+}
+
+.link.stickied .entry .tagline {
+    color: white !important
+}
+
+.stickied.comment .tagline {
+    color: black !important
+}
+
+.commentarea .comment p.tagline span.userattrs a {
+    color: black !important
+}
+
+.content div.commentarea div.comment p.tagline a {
+    color: black !important
+}
+
+html.res .commentarea div.comment p.tagline a.moderator,
+html.res div.commentarea div.comment p.tagline a.submitter {
+    color: white !important
+}
+
+.res div.commentarea div.comment p.tagline span.userattrs a.moderator,
+.res div.commentarea div.comment p.tagline span.userattrs a.submitter {
+    color: black !important
+}
+
+.RES-keyNav-activeElement div.md-container,
+.RES-keyNav-activeElement hr {
+    background: transparent !important;
+    background-color: transparent !important
+}
+
+body >.content {
+    padding-top: 0 !important
+}
+
+.link.stickied .expando * {
+    color: white
+}
+
+.linkflair-electro.stickied .expando * {
+    color: black !important
+}
+
+.searchpane {
+    margin-top: 149px !important
+}
+
+#moresearchinfo {
+    background: #fff7e9
+}
+
+.search-page #previoussearch p a#search_showmore {
+    position: absolute;
+    left: 330px;
+    top: 8px;
+    background-image: none !important;
+    background-repeat: no-repeat;
+    background-position: -49px -168px;
+    overflow: hidden
+}
+
+.link.stickied .expando * {
+    color: white
+}
+
+.linkflair-electro.stickied .expando *,
+.linkflair-edm.stickied .expando * {
+    color: black !important
+}
+
+span.stickied-tagline {
+    text-indent: -9999px;
+    display: inline-block;
+    width: 17px;
+    height: 19px;
+    background-image: url(%%stickywhite%%);
+    background-size: 112%
+}
+
+.commentarea span.stickied-tagline {
+    text-indent: -9999px;
+    display: inline-block;
+    width: 17px;
+    height: 19px;
+    background-image: url(%%sticky%%);
+    background-size: 112%
+}
+
+.top-matter p.title a.title {
+    color: black !important;
+}
+
+.spacer #search #searchexpando {
+    height: 74px;
+    background-color: #efe7d4;
+}
+
+.res .spacer #search #searchexpando {
+    height: 150px;
+}
+
+div#previoussearch ul.res-search-tabs li.res-search-tab-subs {
+    display: none;
+}
+
+.res .search-page div.listing {
+    margin-top: 210px !important;
+}
+
+.res .search-result.search-result-subreddit {
+    display: none !important;
+    z-index: -9999px;
+}
+
+.listing.search-result-listing.res-search-subreddits.res-search-pane.res-search-pane-open {
+    background: transparent !important;
+}
+
+#search #searchexpando label:nth-of-type(2) {
+    display: none !important;
+}
+
+p.tagline span.userattrs .moderator {
+    text-indent: -9999px;
+    display: inline-block!important;
+    width: 24px;
+    background-image: url(%%modshield%%);
+    background-size: 26px;
+    height: 22px;
+    margin-top: 0px;
+    top: -4px;
+    position: relative;
+}
+
+.userattrs {
+    color: transparent !important;
+}
+
+p.tagline span.userattrs .submitter {
+    text-indent: -9999px;
+    display: inline-block !important;
+    width: 20px;
+    background-image: url(%%submitter%%);
+    background-size: 20px;
+    height: 20px;
+    margin-top: 0px;
+    top: -3px;
+    position: relative;
+}
+
+.stickied.comment .flat-list.buttons li a {
+    color: black !important;
+}
+
+
+
+/* End misc.css */
+
+
+/* sidebar link */
+
+
+.link.stickied .thumbnail.self {
+    width: 80px;
+    margin: 0 13px 0 3px;
+    background-position: 0 0 !important;
+}
+
+.thumbnail.default {
+    background-position: -54px -180px!important;
+}
+
+.thumbnail.self {
+    background-position: 0 -180px!important;
+}
+
+.over18 .thumbnail,
+.thumbnail.default,
+.thumbnail.self {
+    background-image: url(%%spritesheet2%%);
+    background-repeat: no-repeat;
+    background-size: 126px 342px;
+    width: 50px;
+    height: 50px;
+    margin: 0 29px 0 17px
+}
