@@ -1,3 +1,5 @@
+
+
 * {
     font-family: Roboto, "San Francisco Display", "Helvetica Neue", Arial, Verdana!important
 }
@@ -25,7 +27,6 @@ body button,
 .link .entry .buttons li a.flairselectbtn,
 .link .entry .buttons li a:hover,
 .link .entry .tagline a:hover,
-.md a,
 .side .titlebox .md h4 a,
 .side:after,
 .sidebox.create .morelink a,
@@ -34,22 +35,26 @@ body button,
 .thing .title.click,
 .thing .title.loggedin,
 .thing .title.loggedin.click,
-.titlebox .tagline a.flairselectbtn,
 .usertext .bottom-area a.reddiquette,
 .wiki-page .pageactions .wikiaction-current,
 .wiki-page .wiki-page-content .md.wiki h4,
-a,
-body .content .sitetable .link .title a:hover,
 .side .titlebox h1.redditname:before
 {
     /* Theme Color */
     background-color: #1d6fa9
 }
 
-/* Should contrast with theme color
-.side .titlebox h1.redditname a,
+a,
+body .content .sitetable .link .title a:hover,
+.md a,
+.titlebox .tagline a.flairselectbtn {
+  color: #1d6fa9
+}
+
+/* Should contrast with theme color */
+.side div.titlebox h1.redditname a.hover,
 .titlebox span.subscribers {
-    color: #fff
+    color: #fff !important
 }
 
 /* Button hover colors */
